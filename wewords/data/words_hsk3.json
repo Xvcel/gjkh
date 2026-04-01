@@ -1,0 +1,2402 @@
+[
+  {
+    "section": "HSK 3",
+    "list_number": 1,
+    "Hanzi": "打扫",
+    "Pinyin": "dǎsǎo",
+    "Mongolian Translation": "цэвэрлэх",
+    "id": 299
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 2,
+    "Hanzi": "矮",
+    "Pinyin": "ǎi",
+    "Mongolian Translation": "намхан",
+    "id": 300
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 3,
+    "Hanzi": "提高",
+    "Pinyin": "tígāo",
+    "Mongolian Translation": "дээшлүүлэх, нэмэгдүүлэх",
+    "id": 301
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 4,
+    "Hanzi": "刻",
+    "Pinyin": "kè",
+    "Mongolian Translation": "мөч; 15 минут",
+    "id": 302
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 5,
+    "Hanzi": "冰箱",
+    "Pinyin": "bīngxiāng",
+    "Mongolian Translation": "хөргөгч",
+    "id": 303
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 6,
+    "Hanzi": "蛋糕",
+    "Pinyin": "dàngāo",
+    "Mongolian Translation": "бялуу",
+    "id": 304
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 7,
+    "Hanzi": "决定",
+    "Pinyin": "juédìng",
+    "Mongolian Translation": "шийдэх; шийдвэр",
+    "id": 305
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 8,
+    "Hanzi": "总是",
+    "Pinyin": "zǒngshì",
+    "Mongolian Translation": "үргэлж",
+    "id": 306
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 9,
+    "Hanzi": "熊猫",
+    "Pinyin": "xióngmāo",
+    "Mongolian Translation": "панда",
+    "id": 307
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 10,
+    "Hanzi": "客人",
+    "Pinyin": "kèrén",
+    "Mongolian Translation": "зочин",
+    "id": 308
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 11,
+    "Hanzi": "只有……才……",
+    "Pinyin": "zhǐyǒu……cái……",
+    "Mongolian Translation": "зөвхөн ... байж л ...",
+    "id": 309
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 12,
+    "Hanzi": "发烧",
+    "Pinyin": "fāshāo",
+    "Mongolian Translation": "халуурах",
+    "id": 310
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 13,
+    "Hanzi": "故事",
+    "Pinyin": "gùshi",
+    "Mongolian Translation": "түүх, өгүүллэг",
+    "id": 311
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 14,
+    "Hanzi": "附近",
+    "Pinyin": "fùjìn",
+    "Mongolian Translation": "ойролцоо",
+    "id": 312
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 15,
+    "Hanzi": "中间",
+    "Pinyin": "zhōngjiān",
+    "Mongolian Translation": "дунд",
+    "id": 313
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 16,
+    "Hanzi": "米",
+    "Pinyin": "mǐ",
+    "Mongolian Translation": "метр; будаа",
+    "id": 314
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 17,
+    "Hanzi": "节日",
+    "Pinyin": "jiérì",
+    "Mongolian Translation": "баярын өдөр",
+    "id": 315
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 18,
+    "Hanzi": "聊天",
+    "Pinyin": "liáotiān",
+    "Mongolian Translation": "хөөрөлдөх",
+    "id": 316
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 19,
+    "Hanzi": "复习",
+    "Pinyin": "fùxí",
+    "Mongolian Translation": "давтах",
+    "id": 317
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 20,
+    "Hanzi": "月亮",
+    "Pinyin": "yuèliang",
+    "Mongolian Translation": "сар",
+    "id": 318
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 21,
+    "Hanzi": "方便",
+    "Pinyin": "fāngbiàn",
+    "Mongolian Translation": "тохиромжтой, амар",
+    "id": 319
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 22,
+    "Hanzi": "同意",
+    "Pinyin": "tóngyì",
+    "Mongolian Translation": "зөвшөөрөх, санал нийлэх",
+    "id": 320
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 23,
+    "Hanzi": "其他",
+    "Pinyin": "qítā",
+    "Mongolian Translation": "бусад",
+    "id": 321
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 24,
+    "Hanzi": "碗",
+    "Pinyin": "wǎn",
+    "Mongolian Translation": "аяга",
+    "id": 322
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 25,
+    "Hanzi": "其实",
+    "Pinyin": "qíshí",
+    "Mongolian Translation": "уг нь, үнэндээ",
+    "id": 323
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 26,
+    "Hanzi": "搬",
+    "Pinyin": "bān",
+    "Mongolian Translation": "зөөх, нүүлгэх",
+    "id": 324
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 27,
+    "Hanzi": "节目",
+    "Pinyin": "jiémù",
+    "Mongolian Translation": "нэвтрүүлэг, үзүүлбэр",
+    "id": 325
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 28,
+    "Hanzi": "明白",
+    "Pinyin": "míngbai",
+    "Mongolian Translation": "ойлгох; ойлгомжтой",
+    "id": 326
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 29,
+    "Hanzi": "着急",
+    "Pinyin": "zháojí",
+    "Mongolian Translation": "сандрах, яарах",
+    "id": 327
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 30,
+    "Hanzi": "结婚",
+    "Pinyin": "jiéhūn",
+    "Mongolian Translation": "гэрлэх",
+    "id": 328
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 31,
+    "Hanzi": "包",
+    "Pinyin": "bāo",
+    "Mongolian Translation": "цүнх; боох",
+    "id": 329
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 32,
+    "Hanzi": "极",
+    "Pinyin": "jí",
+    "Mongolian Translation": "туйлын, маш",
+    "id": 330
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 33,
+    "Hanzi": "盘子",
+    "Pinyin": "pánzi",
+    "Mongolian Translation": "таваг",
+    "id": 331
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 34,
+    "Hanzi": "皮鞋",
+    "Pinyin": "píxié",
+    "Mongolian Translation": "савхин гутал",
+    "id": 332
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 35,
+    "Hanzi": "刮风",
+    "Pinyin": "guāfēng",
+    "Mongolian Translation": "салхи гарах",
+    "id": 333
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 36,
+    "Hanzi": "草",
+    "Pinyin": "cǎo",
+    "Mongolian Translation": "өвс",
+    "id": 334
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 37,
+    "Hanzi": "春",
+    "Pinyin": "chūn",
+    "Mongolian Translation": "хавар",
+    "id": 335
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 38,
+    "Hanzi": "接",
+    "Pinyin": "jiē",
+    "Mongolian Translation": "угтах; авах",
+    "id": 336
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 39,
+    "Hanzi": "当然",
+    "Pinyin": "dāngrán",
+    "Mongolian Translation": "мэдээж",
+    "id": 337
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 40,
+    "Hanzi": "应该",
+    "Pinyin": "yīnggāi",
+    "Mongolian Translation": "ёстой",
+    "id": 338
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 41,
+    "Hanzi": "饿",
+    "Pinyin": "è",
+    "Mongolian Translation": "өлсөх",
+    "id": 339
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 42,
+    "Hanzi": "发现",
+    "Pinyin": "fāxiàn",
+    "Mongolian Translation": "олж мэдэх, илрүүлэх",
+    "id": 340
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 43,
+    "Hanzi": "回答",
+    "Pinyin": "huídá",
+    "Mongolian Translation": "хариулах",
+    "id": 341
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 44,
+    "Hanzi": "地",
+    "Pinyin": "dì",
+    "Mongolian Translation": "газар",
+    "id": 342
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 45,
+    "Hanzi": "为了",
+    "Pinyin": "wèile",
+    "Mongolian Translation": "...ын тулд",
+    "id": 343
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 46,
+    "Hanzi": "万",
+    "Pinyin": "wàn",
+    "Mongolian Translation": "арван мянга",
+    "id": 344
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 47,
+    "Hanzi": "口",
+    "Pinyin": "kǒu",
+    "Mongolian Translation": "ам; тоолох үг",
+    "id": 345
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 48,
+    "Hanzi": "地图",
+    "Pinyin": "dìtú",
+    "Mongolian Translation": "газрын зураг",
+    "id": 346
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 49,
+    "Hanzi": "图书馆",
+    "Pinyin": "túshūguǎn",
+    "Mongolian Translation": "номын сан",
+    "id": 347
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 50,
+    "Hanzi": "马上",
+    "Pinyin": "mǎshàng",
+    "Mongolian Translation": "шууд, даруй",
+    "id": 348
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 51,
+    "Hanzi": "变化",
+    "Pinyin": "biànhuà",
+    "Mongolian Translation": "өөрчлөлт; өөрчлөгдөх",
+    "id": 349
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 52,
+    "Hanzi": "黑板",
+    "Pinyin": "hēibǎn",
+    "Mongolian Translation": "самбар",
+    "id": 350
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 53,
+    "Hanzi": "讲",
+    "Pinyin": "jiǎng",
+    "Mongolian Translation": "ярих",
+    "id": 351
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 54,
+    "Hanzi": "满意",
+    "Pinyin": "mǎnyì",
+    "Mongolian Translation": "сэтгэл хангалуун",
+    "id": 352
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 55,
+    "Hanzi": "选择",
+    "Pinyin": "xuǎnzé",
+    "Mongolian Translation": "сонгох",
+    "id": 353
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 56,
+    "Hanzi": "照片",
+    "Pinyin": "zhàopiàn",
+    "Mongolian Translation": "гэрэл зураг",
+    "id": 354
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 57,
+    "Hanzi": "别人",
+    "Pinyin": "biérén",
+    "Mongolian Translation": "бусад хүн, өөр хүн",
+    "id": 355
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 58,
+    "Hanzi": "花（动词）",
+    "Pinyin": "huā",
+    "Mongolian Translation": "зарцуулах",
+    "id": 356
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 59,
+    "Hanzi": "耳朵",
+    "Pinyin": "ěrduo",
+    "Mongolian Translation": "чих",
+    "id": 357
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 60,
+    "Hanzi": "照顾",
+    "Pinyin": "zhàogù",
+    "Mongolian Translation": "анхаарах, асрах",
+    "id": 358
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 61,
+    "Hanzi": "香蕉",
+    "Pinyin": "xiāngjiāo",
+    "Mongolian Translation": "банана",
+    "id": 359
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 62,
+    "Hanzi": "生气",
+    "Pinyin": "shēngqì",
+    "Mongolian Translation": "уурлах",
+    "id": 360
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 63,
+    "Hanzi": "冬",
+    "Pinyin": "dōng",
+    "Mongolian Translation": "өвөл",
+    "id": 361
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 64,
+    "Hanzi": "奇怪",
+    "Pinyin": "qíguài",
+    "Mongolian Translation": "хачин",
+    "id": 362
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 65,
+    "Hanzi": "帽子",
+    "Pinyin": "màozi",
+    "Mongolian Translation": "малгай",
+    "id": 363
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 66,
+    "Hanzi": "公斤",
+    "Pinyin": "gōngjīn",
+    "Mongolian Translation": "килограмм",
+    "id": 364
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 67,
+    "Hanzi": "爱好",
+    "Pinyin": "àihào",
+    "Mongolian Translation": "хобби, сонирхол",
+    "id": 365
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 68,
+    "Hanzi": "段",
+    "Pinyin": "duàn",
+    "Mongolian Translation": "хэсэг",
+    "id": 366
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 69,
+    "Hanzi": "为",
+    "Pinyin": "wèi",
+    "Mongolian Translation": "төлөө",
+    "id": 367
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 70,
+    "Hanzi": "声音",
+    "Pinyin": "shēngyīn",
+    "Mongolian Translation": "дуу хоолой, авиа",
+    "id": 368
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 71,
+    "Hanzi": "同事",
+    "Pinyin": "tóngshì",
+    "Mongolian Translation": "хамт ажиллагч",
+    "id": 369
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 72,
+    "Hanzi": "银行",
+    "Pinyin": "yínháng",
+    "Mongolian Translation": "банк",
+    "id": 370
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 73,
+    "Hanzi": "练习",
+    "Pinyin": "liànxí",
+    "Mongolian Translation": "давтах, дасгал хийх",
+    "id": 371
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 74,
+    "Hanzi": "最近",
+    "Pinyin": "zuìjìn",
+    "Mongolian Translation": "хамгийн ойр; сүүлийн үед",
+    "id": 372
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 75,
+    "Hanzi": "影响",
+    "Pinyin": "yǐngxiǎng",
+    "Mongolian Translation": "нөлөөлөх; нөлөө",
+    "id": 373
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 76,
+    "Hanzi": "努力",
+    "Pinyin": "nǔlì",
+    "Mongolian Translation": "хичээх",
+    "id": 374
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 77,
+    "Hanzi": "新鲜",
+    "Pinyin": "xīnxiān",
+    "Mongolian Translation": "шинэхэн",
+    "id": 375
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 78,
+    "Hanzi": "把",
+    "Pinyin": "bǎ",
+    "Mongolian Translation": "барих; -ыг/-ийг",
+    "id": 376
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 79,
+    "Hanzi": "年级",
+    "Pinyin": "niánjí",
+    "Mongolian Translation": "анги; курс",
+    "id": 377
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 80,
+    "Hanzi": "跟",
+    "Pinyin": "gēn",
+    "Mongolian Translation": "дагах; хамт; -тай",
+    "id": 378
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 81,
+    "Hanzi": "一会儿",
+    "Pinyin": "yíhuìr",
+    "Mongolian Translation": "хэсэг хугацаа; удалгүй",
+    "id": 379
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 82,
+    "Hanzi": "班",
+    "Pinyin": "bān",
+    "Mongolian Translation": "анги; ээлж",
+    "id": 380
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 83,
+    "Hanzi": "只（量词）",
+    "Pinyin": "zhī",
+    "Mongolian Translation": "ширхэгийн тоолох үг",
+    "id": 381
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 84,
+    "Hanzi": "或者",
+    "Pinyin": "huòzhě",
+    "Mongolian Translation": "эсвэл",
+    "id": 382
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 85,
+    "Hanzi": "根据",
+    "Pinyin": "gēnjù",
+    "Mongolian Translation": "үндэслэн, дагуу",
+    "id": 383
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 86,
+    "Hanzi": "结束",
+    "Pinyin": "jiéshù",
+    "Mongolian Translation": "дуусгах, дуусах",
+    "id": 384
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 87,
+    "Hanzi": "被",
+    "Pinyin": "bèi",
+    "Mongolian Translation": "-д өртөх; -аар",
+    "id": 385
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 88,
+    "Hanzi": "周末",
+    "Pinyin": "zhōumò",
+    "Mongolian Translation": "амралтын өдөр",
+    "id": 386
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 89,
+    "Hanzi": "季节",
+    "Pinyin": "jìjié",
+    "Mongolian Translation": "улирал",
+    "id": 387
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 90,
+    "Hanzi": "向",
+    "Pinyin": "xiàng",
+    "Mongolian Translation": "руу; хандах",
+    "id": 388
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 91,
+    "Hanzi": "鼻子",
+    "Pinyin": "bízi",
+    "Mongolian Translation": "хамар",
+    "id": 389
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 92,
+    "Hanzi": "特别",
+    "Pinyin": "tèbié",
+    "Mongolian Translation": "онцгой, ялангуяа",
+    "id": 390
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 93,
+    "Hanzi": "换",
+    "Pinyin": "huàn",
+    "Mongolian Translation": "солих",
+    "id": 391
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 94,
+    "Hanzi": "差",
+    "Pinyin": "chà",
+    "Mongolian Translation": "муу; дутуу; ялгаа",
+    "id": 392
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 95,
+    "Hanzi": "又",
+    "Pinyin": "yòu",
+    "Mongolian Translation": "бас, дахин",
+    "id": 393
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 96,
+    "Hanzi": "骑",
+    "Pinyin": "qí",
+    "Mongolian Translation": "унах",
+    "id": 394
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 97,
+    "Hanzi": "阿姨",
+    "Pinyin": "āyí",
+    "Mongolian Translation": "эгч; ээжийн насны эмэгтэй",
+    "id": 395
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 98,
+    "Hanzi": "站",
+    "Pinyin": "zhàn",
+    "Mongolian Translation": "зогсох; буудал",
+    "id": 396
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 99,
+    "Hanzi": "南",
+    "Pinyin": "nán",
+    "Mongolian Translation": "өмнө зүг",
+    "id": 397
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 100,
+    "Hanzi": "以前",
+    "Pinyin": "yǐqián",
+    "Mongolian Translation": "өмнө",
+    "id": 398
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 101,
+    "Hanzi": "注意",
+    "Pinyin": "zhùyì",
+    "Mongolian Translation": "анхаарах",
+    "id": 399
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 102,
+    "Hanzi": "借",
+    "Pinyin": "jiè",
+    "Mongolian Translation": "зээлэх; түр авах",
+    "id": 400
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 103,
+    "Hanzi": "张",
+    "Pinyin": "zhāng",
+    "Mongolian Translation": "дэлгэх; хавтгай зүйлийн тоолох үг",
+    "id": 401
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 104,
+    "Hanzi": "空调",
+    "Pinyin": "kōngtiáo",
+    "Mongolian Translation": "агааржуулагч",
+    "id": 402
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 105,
+    "Hanzi": "终于",
+    "Pinyin": "zhōngyú",
+    "Mongolian Translation": "эцэст нь",
+    "id": 403
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 106,
+    "Hanzi": "护照",
+    "Pinyin": "hùzhào",
+    "Mongolian Translation": "паспорт",
+    "id": 404
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 107,
+    "Hanzi": "最后",
+    "Pinyin": "zuìhòu",
+    "Mongolian Translation": "хамгийн сүүлд",
+    "id": 405
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 108,
+    "Hanzi": "腿",
+    "Pinyin": "tuǐ",
+    "Mongolian Translation": "хөл",
+    "id": 406
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 109,
+    "Hanzi": "北方",
+    "Pinyin": "běifāng",
+    "Mongolian Translation": "хойд зүг, хойд нутаг",
+    "id": 407
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 110,
+    "Hanzi": "灯",
+    "Pinyin": "dēng",
+    "Mongolian Translation": "гэрэл, чийдэн",
+    "id": 408
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 111,
+    "Hanzi": "裤子",
+    "Pinyin": "kùzi",
+    "Mongolian Translation": "өмд",
+    "id": 409
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 112,
+    "Hanzi": "甜",
+    "Pinyin": "tián",
+    "Mongolian Translation": "чихэрлэг",
+    "id": 410
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 113,
+    "Hanzi": "历史",
+    "Pinyin": "lìshǐ",
+    "Mongolian Translation": "түүх",
+    "id": 411
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 114,
+    "Hanzi": "然后",
+    "Pinyin": "ránhòu",
+    "Mongolian Translation": "дараа нь",
+    "id": 412
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 115,
+    "Hanzi": "难过",
+    "Pinyin": "nánguò",
+    "Mongolian Translation": "гунигтай; хэцүү байх",
+    "id": 413
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 116,
+    "Hanzi": "带",
+    "Pinyin": "dài",
+    "Mongolian Translation": "авч явах; дагуулах",
+    "id": 414
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 117,
+    "Hanzi": "中文",
+    "Pinyin": "Zhōngwén",
+    "Mongolian Translation": "хятад хэл",
+    "id": 415
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 118,
+    "Hanzi": "突然",
+    "Pinyin": "tūrán",
+    "Mongolian Translation": "гэнэт",
+    "id": 416
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 119,
+    "Hanzi": "完成",
+    "Pinyin": "wánchéng",
+    "Mongolian Translation": "дуусгах, гүйцэтгэх",
+    "id": 417
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 120,
+    "Hanzi": "习惯",
+    "Pinyin": "xíguàn",
+    "Mongolian Translation": "зуршил; дасах",
+    "id": 418
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 121,
+    "Hanzi": "动物",
+    "Pinyin": "dòngwù",
+    "Mongolian Translation": "амьтан",
+    "id": 419
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 122,
+    "Hanzi": "马",
+    "Pinyin": "mǎ",
+    "Mongolian Translation": "морь",
+    "id": 420
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 123,
+    "Hanzi": "经理",
+    "Pinyin": "jīnglǐ",
+    "Mongolian Translation": "менежер, захирал",
+    "id": 421
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 124,
+    "Hanzi": "容易",
+    "Pinyin": "róngyì",
+    "Mongolian Translation": "амархан",
+    "id": 422
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 125,
+    "Hanzi": "发",
+    "Pinyin": "fā",
+    "Mongolian Translation": "илгээх; гарах",
+    "id": 423
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 126,
+    "Hanzi": "认真",
+    "Pinyin": "rènzhēn",
+    "Mongolian Translation": "нухацтай, хичээнгүй",
+    "id": 424
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 127,
+    "Hanzi": "热情",
+    "Pinyin": "rèqíng",
+    "Mongolian Translation": "халуун дотно, найрсаг",
+    "id": 425
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 128,
+    "Hanzi": "还是",
+    "Pinyin": "háishì",
+    "Mongolian Translation": "эсвэл; бас л; хэвээр",
+    "id": 426
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 129,
+    "Hanzi": "主要",
+    "Pinyin": "zhǔyào",
+    "Mongolian Translation": "гол, үндсэн",
+    "id": 427
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 130,
+    "Hanzi": "用",
+    "Pinyin": "yòng",
+    "Mongolian Translation": "хэрэглэх",
+    "id": 428
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 131,
+    "Hanzi": "层",
+    "Pinyin": "céng",
+    "Mongolian Translation": "давхар",
+    "id": 429
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 132,
+    "Hanzi": "洗手间",
+    "Pinyin": "xǐshǒujiān",
+    "Mongolian Translation": "бие засах газар",
+    "id": 430
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 133,
+    "Hanzi": "公园",
+    "Pinyin": "gōngyuán",
+    "Mongolian Translation": "парк",
+    "id": 431
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 134,
+    "Hanzi": "地铁",
+    "Pinyin": "dìtiě",
+    "Mongolian Translation": "метро",
+    "id": 432
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 135,
+    "Hanzi": "健康",
+    "Pinyin": "jiànkāng",
+    "Mongolian Translation": "эрүүл",
+    "id": 433
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 136,
+    "Hanzi": "超市",
+    "Pinyin": "chāoshì",
+    "Mongolian Translation": "супермаркет",
+    "id": 434
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 137,
+    "Hanzi": "一共",
+    "Pinyin": "yígòng",
+    "Mongolian Translation": "нийтдээ",
+    "id": 435
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 138,
+    "Hanzi": "花（名词）",
+    "Pinyin": "huā",
+    "Mongolian Translation": "цэцэг",
+    "id": 436
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 139,
+    "Hanzi": "久",
+    "Pinyin": "jiǔ",
+    "Mongolian Translation": "удаан",
+    "id": 437
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 140,
+    "Hanzi": "裙子",
+    "Pinyin": "qúnzi",
+    "Mongolian Translation": "банзал",
+    "id": 438
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 141,
+    "Hanzi": "衬衫",
+    "Pinyin": "chènshān",
+    "Mongolian Translation": "цамц",
+    "id": 439
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 142,
+    "Hanzi": "瓶子",
+    "Pinyin": "píngzi",
+    "Mongolian Translation": "шил, сав",
+    "id": 440
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 143,
+    "Hanzi": "世界",
+    "Pinyin": "shìjiè",
+    "Mongolian Translation": "дэлхий, ертөнц",
+    "id": 441
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 144,
+    "Hanzi": "瘦",
+    "Pinyin": "shòu",
+    "Mongolian Translation": "туранхай",
+    "id": 442
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 145,
+    "Hanzi": "关",
+    "Pinyin": "guān",
+    "Mongolian Translation": "хаах",
+    "id": 443
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 146,
+    "Hanzi": "地方",
+    "Pinyin": "dìfang",
+    "Mongolian Translation": "газар, байр",
+    "id": 444
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 147,
+    "Hanzi": "安静",
+    "Pinyin": "ānjìng",
+    "Mongolian Translation": "нам гүм, тайван",
+    "id": 445
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 148,
+    "Hanzi": "除了",
+    "Pinyin": "chúle",
+    "Mongolian Translation": "-аас бусад; гадна",
+    "id": 446
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 149,
+    "Hanzi": "面包",
+    "Pinyin": "miànbāo",
+    "Mongolian Translation": "талх",
+    "id": 447
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 150,
+    "Hanzi": "感兴趣",
+    "Pinyin": "gǎn xìngqù",
+    "Mongolian Translation": "сонирхолтой байх",
+    "id": 448
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 151,
+    "Hanzi": "分",
+    "Pinyin": "fēn",
+    "Mongolian Translation": "минут; оноо; хуваах",
+    "id": 449
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 152,
+    "Hanzi": "游戏",
+    "Pinyin": "yóuxì",
+    "Mongolian Translation": "тоглоом",
+    "id": 450
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 153,
+    "Hanzi": "上网",
+    "Pinyin": "shàngwǎng",
+    "Mongolian Translation": "интернетэд орох",
+    "id": 451
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 154,
+    "Hanzi": "解决",
+    "Pinyin": "jiějué",
+    "Mongolian Translation": "шийдэх",
+    "id": 452
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 155,
+    "Hanzi": "洗澡",
+    "Pinyin": "xǐzǎo",
+    "Mongolian Translation": "усанд орох",
+    "id": 453
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 156,
+    "Hanzi": "如果",
+    "Pinyin": "rúguǒ",
+    "Mongolian Translation": "хэрэв",
+    "id": 454
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 157,
+    "Hanzi": "一边",
+    "Pinyin": "yìbiān",
+    "Mongolian Translation": "нэг талдаа; зэрэгцүүлэн",
+    "id": 455
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 158,
+    "Hanzi": "比赛",
+    "Pinyin": "bǐsài",
+    "Mongolian Translation": "тэмцээн; уралдах",
+    "id": 456
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 159,
+    "Hanzi": "会议",
+    "Pinyin": "huìyì",
+    "Mongolian Translation": "хурал",
+    "id": 457
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 160,
+    "Hanzi": "国家",
+    "Pinyin": "guójiā",
+    "Mongolian Translation": "улс орон",
+    "id": 458
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 161,
+    "Hanzi": "老",
+    "Pinyin": "lǎo",
+    "Mongolian Translation": "хөгшин; хуучин",
+    "id": 459
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 162,
+    "Hanzi": "关心",
+    "Pinyin": "guānxīn",
+    "Mongolian Translation": "санаа тавих, анхаарах",
+    "id": 460
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 163,
+    "Hanzi": "环境",
+    "Pinyin": "huánjìng",
+    "Mongolian Translation": "орчин",
+    "id": 461
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 164,
+    "Hanzi": "太阳",
+    "Pinyin": "tàiyáng",
+    "Mongolian Translation": "нар",
+    "id": 462
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 165,
+    "Hanzi": "饱",
+    "Pinyin": "bǎo",
+    "Mongolian Translation": "цадсан",
+    "id": 463
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 166,
+    "Hanzi": "需要",
+    "Pinyin": "xūyào",
+    "Mongolian Translation": "хэрэгтэй байх",
+    "id": 464
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 167,
+    "Hanzi": "过去",
+    "Pinyin": "guòqù",
+    "Mongolian Translation": "өнгөрсөн; өнгөрөх",
+    "id": 465
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 168,
+    "Hanzi": "参加",
+    "Pinyin": "cānjiā",
+    "Mongolian Translation": "оролцох",
+    "id": 466
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 169,
+    "Hanzi": "啊",
+    "Pinyin": "a",
+    "Mongolian Translation": "аа, өө",
+    "id": 467
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 170,
+    "Hanzi": "音乐",
+    "Pinyin": "yīnyuè",
+    "Mongolian Translation": "хөгжим",
+    "id": 468
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 171,
+    "Hanzi": "秋",
+    "Pinyin": "qiū",
+    "Mongolian Translation": "намар",
+    "id": 469
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 172,
+    "Hanzi": "后来",
+    "Pinyin": "hòulái",
+    "Mongolian Translation": "дараа нь",
+    "id": 470
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 173,
+    "Hanzi": "句子",
+    "Pinyin": "jùzi",
+    "Mongolian Translation": "өгүүлбэр",
+    "id": 471
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 174,
+    "Hanzi": "个子",
+    "Pinyin": "gèzi",
+    "Mongolian Translation": "биеийн өндөр",
+    "id": 472
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 175,
+    "Hanzi": "电子邮件",
+    "Pinyin": "diànzǐ yóujiàn",
+    "Mongolian Translation": "и-мэйл",
+    "id": 473
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 176,
+    "Hanzi": "西",
+    "Pinyin": "xī",
+    "Mongolian Translation": "баруун",
+    "id": 474
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 177,
+    "Hanzi": "新闻",
+    "Pinyin": "xīnwén",
+    "Mongolian Translation": "мэдээ",
+    "id": 475
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 178,
+    "Hanzi": "叔叔",
+    "Pinyin": "shūshu",
+    "Mongolian Translation": "авга ах",
+    "id": 476
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 179,
+    "Hanzi": "黄河",
+    "Pinyin": "Huáng Hé",
+    "Mongolian Translation": "Шар мөрөн",
+    "id": 477
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 180,
+    "Hanzi": "关系",
+    "Pinyin": "guānxi",
+    "Mongolian Translation": "харилцаа, холбоо",
+    "id": 478
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 181,
+    "Hanzi": "相信",
+    "Pinyin": "xiāngxìn",
+    "Mongolian Translation": "итгэх",
+    "id": 479
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 182,
+    "Hanzi": "菜单",
+    "Pinyin": "càidān",
+    "Mongolian Translation": "цэс",
+    "id": 480
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 183,
+    "Hanzi": "拿",
+    "Pinyin": "ná",
+    "Mongolian Translation": "авах, барих",
+    "id": 481
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 184,
+    "Hanzi": "绿",
+    "Pinyin": "lǜ",
+    "Mongolian Translation": "ногоон",
+    "id": 482
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 185,
+    "Hanzi": "忘记",
+    "Pinyin": "wàngjì",
+    "Mongolian Translation": "мартах",
+    "id": 483
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 186,
+    "Hanzi": "数学",
+    "Pinyin": "shùxué",
+    "Mongolian Translation": "математик",
+    "id": 484
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 187,
+    "Hanzi": "校长",
+    "Pinyin": "xiàozhǎng",
+    "Mongolian Translation": "сургуулийн захирал",
+    "id": 485
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 188,
+    "Hanzi": "办法",
+    "Pinyin": "bànfǎ",
+    "Mongolian Translation": "арга, шийдэл",
+    "id": 486
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 189,
+    "Hanzi": "像",
+    "Pinyin": "xiàng",
+    "Mongolian Translation": "шиг, адил",
+    "id": 487
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 190,
+    "Hanzi": "水平",
+    "Pinyin": "shuǐpíng",
+    "Mongolian Translation": "түвшин",
+    "id": 488
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 191,
+    "Hanzi": "元",
+    "Pinyin": "yuán",
+    "Mongolian Translation": "юань; мөнгөний нэгж",
+    "id": 489
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 192,
+    "Hanzi": "留学",
+    "Pinyin": "liúxué",
+    "Mongolian Translation": "гадаадад сурах",
+    "id": 490
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 193,
+    "Hanzi": "认为",
+    "Pinyin": "rènwéi",
+    "Mongolian Translation": "гэж бодох, үзэх",
+    "id": 491
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 194,
+    "Hanzi": "刷牙",
+    "Pinyin": "shuāyá",
+    "Mongolian Translation": "шүдээ угаах",
+    "id": 492
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 195,
+    "Hanzi": "照相机",
+    "Pinyin": "zhàoxiàngjī",
+    "Mongolian Translation": "камер",
+    "id": 493
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 196,
+    "Hanzi": "感冒",
+    "Pinyin": "gǎnmào",
+    "Mongolian Translation": "ханиад хүрэх",
+    "id": 494
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 197,
+    "Hanzi": "干净",
+    "Pinyin": "gānjìng",
+    "Mongolian Translation": "цэвэр",
+    "id": 495
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 198,
+    "Hanzi": "疼",
+    "Pinyin": "téng",
+    "Mongolian Translation": "өвдөх",
+    "id": 496
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 199,
+    "Hanzi": "长",
+    "Pinyin": "cháng",
+    "Mongolian Translation": "урт",
+    "id": 497
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 200,
+    "Hanzi": "舒服",
+    "Pinyin": "shūfu",
+    "Mongolian Translation": "тухтай, таатай",
+    "id": 498
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 201,
+    "Hanzi": "难",
+    "Pinyin": "nán",
+    "Mongolian Translation": "хэцүү",
+    "id": 499
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 202,
+    "Hanzi": "体育",
+    "Pinyin": "tǐyù",
+    "Mongolian Translation": "биеийн тамир, спорт",
+    "id": 500
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 203,
+    "Hanzi": "街道",
+    "Pinyin": "jiēdào",
+    "Mongolian Translation": "гудамж",
+    "id": 501
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 204,
+    "Hanzi": "渴",
+    "Pinyin": "kě",
+    "Mongolian Translation": "цангах",
+    "id": 502
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 205,
+    "Hanzi": "经过",
+    "Pinyin": "jīngguò",
+    "Mongolian Translation": "дайран өнгөрөх; явц",
+    "id": 503
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 206,
+    "Hanzi": "聪明",
+    "Pinyin": "cōngming",
+    "Mongolian Translation": "ухаантай, сэргэлэн",
+    "id": 504
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 207,
+    "Hanzi": "放心",
+    "Pinyin": "fàngxīn",
+    "Mongolian Translation": "санаа амрах",
+    "id": 505
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 208,
+    "Hanzi": "害怕",
+    "Pinyin": "hàipà",
+    "Mongolian Translation": "айх",
+    "id": 506
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 209,
+    "Hanzi": "奶奶",
+    "Pinyin": "nǎinai",
+    "Mongolian Translation": "эмээ",
+    "id": 507
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 210,
+    "Hanzi": "画",
+    "Pinyin": "huà",
+    "Mongolian Translation": "зурах; зураг",
+    "id": 508
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 211,
+    "Hanzi": "一样",
+    "Pinyin": "yíyàng",
+    "Mongolian Translation": "адилхан",
+    "id": 509
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 212,
+    "Hanzi": "脚",
+    "Pinyin": "jiǎo",
+    "Mongolian Translation": "хөл",
+    "id": 510
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 213,
+    "Hanzi": "东",
+    "Pinyin": "dōng",
+    "Mongolian Translation": "зүүн",
+    "id": 511
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 214,
+    "Hanzi": "迟到",
+    "Pinyin": "chídào",
+    "Mongolian Translation": "хоцрох",
+    "id": 512
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 215,
+    "Hanzi": "起来",
+    "Pinyin": "qǐlái",
+    "Mongolian Translation": "босох; ...ж эхлэх",
+    "id": 513
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 216,
+    "Hanzi": "打算",
+    "Pinyin": "dǎsuan",
+    "Mongolian Translation": "төлөвлөх",
+    "id": 514
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 217,
+    "Hanzi": "城市",
+    "Pinyin": "chéngshì",
+    "Mongolian Translation": "хот",
+    "id": 515
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 218,
+    "Hanzi": "双",
+    "Pinyin": "shuāng",
+    "Mongolian Translation": "хос",
+    "id": 516
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 219,
+    "Hanzi": "过",
+    "Pinyin": "guò",
+    "Mongolian Translation": "өнгөрөх",
+    "id": 517
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 220,
+    "Hanzi": "成绩",
+    "Pinyin": "chéngjì",
+    "Mongolian Translation": "дүн, амжилт",
+    "id": 518
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 221,
+    "Hanzi": "越",
+    "Pinyin": "yuè",
+    "Mongolian Translation": "улам ...",
+    "id": 519
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 222,
+    "Hanzi": "记得",
+    "Pinyin": "jìde",
+    "Mongolian Translation": "санах",
+    "id": 520
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 223,
+    "Hanzi": "旧",
+    "Pinyin": "jiù",
+    "Mongolian Translation": "хуучин",
+    "id": 521
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 224,
+    "Hanzi": "哭",
+    "Pinyin": "kū",
+    "Mongolian Translation": "уйлах",
+    "id": 522
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 225,
+    "Hanzi": "脸",
+    "Pinyin": "liǎn",
+    "Mongolian Translation": "нүүр",
+    "id": 523
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 226,
+    "Hanzi": "遇到",
+    "Pinyin": "yùdào",
+    "Mongolian Translation": "таарах, тулгарах",
+    "id": 524
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 227,
+    "Hanzi": "树",
+    "Pinyin": "shù",
+    "Mongolian Translation": "мод",
+    "id": 525
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 228,
+    "Hanzi": "词典",
+    "Pinyin": "cídiǎn",
+    "Mongolian Translation": "толь бичиг",
+    "id": 526
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 229,
+    "Hanzi": "位",
+    "Pinyin": "wèi",
+    "Mongolian Translation": "хүндэтгэлийн тоолох үг",
+    "id": 527
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 230,
+    "Hanzi": "笔记本",
+    "Pinyin": "bǐjìběn",
+    "Mongolian Translation": "дэвтэр; ноутбук",
+    "id": 528
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 231,
+    "Hanzi": "一直",
+    "Pinyin": "yìzhí",
+    "Mongolian Translation": "үргэлж, тасралтгүй",
+    "id": 529
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 232,
+    "Hanzi": "几乎",
+    "Pinyin": "jīhū",
+    "Mongolian Translation": "бараг",
+    "id": 530
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 233,
+    "Hanzi": "有名",
+    "Pinyin": "yǒumíng",
+    "Mongolian Translation": "алдартай",
+    "id": 531
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 234,
+    "Hanzi": "爬山",
+    "Pinyin": "páshān",
+    "Mongolian Translation": "ууланд авирах",
+    "id": 532
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 235,
+    "Hanzi": "辆",
+    "Pinyin": "liàng",
+    "Mongolian Translation": "тээврийн хэрэгслийн тоолох үг",
+    "id": 533
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 236,
+    "Hanzi": "放",
+    "Pinyin": "fàng",
+    "Mongolian Translation": "тавих",
+    "id": 534
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 237,
+    "Hanzi": "要求",
+    "Pinyin": "yāoqiú",
+    "Mongolian Translation": "шаардлага; шаардах",
+    "id": 535
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 238,
+    "Hanzi": "重要",
+    "Pinyin": "zhòngyào",
+    "Mongolian Translation": "чухал",
+    "id": 536
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 239,
+    "Hanzi": "信用卡",
+    "Pinyin": "xìnyòngkǎ",
+    "Mongolian Translation": "кредит карт",
+    "id": 537
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 240,
+    "Hanzi": "礼物",
+    "Pinyin": "lǐwù",
+    "Mongolian Translation": "бэлэг",
+    "id": 538
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 241,
+    "Hanzi": "试",
+    "Pinyin": "shì",
+    "Mongolian Translation": "турших",
+    "id": 539
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 242,
+    "Hanzi": "文化",
+    "Pinyin": "wénhuà",
+    "Mongolian Translation": "соёл",
+    "id": 540
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 243,
+    "Hanzi": "愿意",
+    "Pinyin": "yuànyì",
+    "Mongolian Translation": "дуртай байх, зөвшөөрөх",
+    "id": 541
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 244,
+    "Hanzi": "楼",
+    "Pinyin": "lóu",
+    "Mongolian Translation": "давхар байшин; давхар",
+    "id": 542
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 245,
+    "Hanzi": "关于",
+    "Pinyin": "guānyú",
+    "Mongolian Translation": "тухай, талаар",
+    "id": 543
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 246,
+    "Hanzi": "作业",
+    "Pinyin": "zuòyè",
+    "Mongolian Translation": "гэрийн даалгавар",
+    "id": 544
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 247,
+    "Hanzi": "离开",
+    "Pinyin": "líkāi",
+    "Mongolian Translation": "орхих, явах",
+    "id": 545
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 248,
+    "Hanzi": "头发",
+    "Pinyin": "tóufa",
+    "Mongolian Translation": "үс",
+    "id": 546
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 249,
+    "Hanzi": "机会",
+    "Pinyin": "jīhuì",
+    "Mongolian Translation": "боломж",
+    "id": 547
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 250,
+    "Hanzi": "司机",
+    "Pinyin": "sījī",
+    "Mongolian Translation": "жолооч",
+    "id": 548
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 251,
+    "Hanzi": "小心",
+    "Pinyin": "xiǎoxīn",
+    "Mongolian Translation": "болгоомжтой",
+    "id": 549
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 252,
+    "Hanzi": "见面",
+    "Pinyin": "jiànmiàn",
+    "Mongolian Translation": "уулзах",
+    "id": 550
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 253,
+    "Hanzi": "电梯",
+    "Pinyin": "diàntī",
+    "Mongolian Translation": "лифт",
+    "id": 551
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 254,
+    "Hanzi": "筷子",
+    "Pinyin": "kuàizi",
+    "Mongolian Translation": "савх",
+    "id": 552
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 255,
+    "Hanzi": "只（副词）",
+    "Pinyin": "zhǐ",
+    "Mongolian Translation": "зөвхөн",
+    "id": 553
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 256,
+    "Hanzi": "邻居",
+    "Pinyin": "línjū",
+    "Mongolian Translation": "хөрш",
+    "id": 554
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 257,
+    "Hanzi": "清楚",
+    "Pinyin": "qīngchu",
+    "Mongolian Translation": "тодорхой, ойлгомжтой",
+    "id": 555
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 258,
+    "Hanzi": "经常",
+    "Pinyin": "jīngcháng",
+    "Mongolian Translation": "байнга",
+    "id": 556
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 259,
+    "Hanzi": "自行车",
+    "Pinyin": "zìxíngchē",
+    "Mongolian Translation": "унадаг дугуй",
+    "id": 557
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 260,
+    "Hanzi": "教",
+    "Pinyin": "jiāo",
+    "Mongolian Translation": "заах",
+    "id": 558
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 261,
+    "Hanzi": "半",
+    "Pinyin": "bàn",
+    "Mongolian Translation": "хагас",
+    "id": 559
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 262,
+    "Hanzi": "啤酒",
+    "Pinyin": "píjiǔ",
+    "Mongolian Translation": "шар айраг",
+    "id": 560
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 263,
+    "Hanzi": "嘴",
+    "Pinyin": "zuǐ",
+    "Mongolian Translation": "ам",
+    "id": 561
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 264,
+    "Hanzi": "刚才",
+    "Pinyin": "gāngcái",
+    "Mongolian Translation": "саяхан",
+    "id": 562
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 265,
+    "Hanzi": "短",
+    "Pinyin": "duǎn",
+    "Mongolian Translation": "богино",
+    "id": 563
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 266,
+    "Hanzi": "更",
+    "Pinyin": "gèng",
+    "Mongolian Translation": "илүү",
+    "id": 564
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 267,
+    "Hanzi": "饮料",
+    "Pinyin": "yǐnliào",
+    "Mongolian Translation": "ундаа",
+    "id": 565
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 268,
+    "Hanzi": "先",
+    "Pinyin": "xiān",
+    "Mongolian Translation": "эхлээд",
+    "id": 566
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 269,
+    "Hanzi": "蓝",
+    "Pinyin": "lán",
+    "Mongolian Translation": "хөх, цэнхэр",
+    "id": 567
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 270,
+    "Hanzi": "坏",
+    "Pinyin": "huài",
+    "Mongolian Translation": "муу; эвдэрсэн",
+    "id": 568
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 271,
+    "Hanzi": "办公室",
+    "Pinyin": "bàngōngshì",
+    "Mongolian Translation": "оффис, ажлын өрөө",
+    "id": 569
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 272,
+    "Hanzi": "请假",
+    "Pinyin": "qǐngjià",
+    "Mongolian Translation": "чөлөө хүсэх",
+    "id": 570
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 273,
+    "Hanzi": "船",
+    "Pinyin": "chuán",
+    "Mongolian Translation": "усан онгоц",
+    "id": 571
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 274,
+    "Hanzi": "夏",
+    "Pinyin": "xià",
+    "Mongolian Translation": "зун",
+    "id": 572
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 275,
+    "Hanzi": "胖",
+    "Pinyin": "pàng",
+    "Mongolian Translation": "тарган",
+    "id": 573
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 276,
+    "Hanzi": "可爱",
+    "Pinyin": "kě’ài",
+    "Mongolian Translation": "хөөрхөн",
+    "id": 574
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 277,
+    "Hanzi": "锻炼",
+    "Pinyin": "duànliàn",
+    "Mongolian Translation": "дасгал хийх, чийрэгжих",
+    "id": 575
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 278,
+    "Hanzi": "鸟",
+    "Pinyin": "niǎo",
+    "Mongolian Translation": "шувуу",
+    "id": 576
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 279,
+    "Hanzi": "检查",
+    "Pinyin": "jiǎnchá",
+    "Mongolian Translation": "шалгах",
+    "id": 577
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 280,
+    "Hanzi": "爷爷",
+    "Pinyin": "yéye",
+    "Mongolian Translation": "өвөө",
+    "id": 578
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 281,
+    "Hanzi": "简单",
+    "Pinyin": "jiǎndān",
+    "Mongolian Translation": "энгийн",
+    "id": 579
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 282,
+    "Hanzi": "种",
+    "Pinyin": "zhǒng",
+    "Mongolian Translation": "төрөл",
+    "id": 580
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 283,
+    "Hanzi": "行李箱",
+    "Pinyin": "xínglixiāng",
+    "Mongolian Translation": "чемодан",
+    "id": 581
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 284,
+    "Hanzi": "一般",
+    "Pinyin": "yìbān",
+    "Mongolian Translation": "ерөнхийдөө, жирийн",
+    "id": 582
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 285,
+    "Hanzi": "伞",
+    "Pinyin": "sǎn",
+    "Mongolian Translation": "шүхэр",
+    "id": 583
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 286,
+    "Hanzi": "还（动词）",
+    "Pinyin": "huán",
+    "Mongolian Translation": "буцаах",
+    "id": 584
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 287,
+    "Hanzi": "自己",
+    "Pinyin": "zìjǐ",
+    "Mongolian Translation": "өөрөө",
+    "id": 585
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 288,
+    "Hanzi": "多么",
+    "Pinyin": "duōme",
+    "Mongolian Translation": "ямар их, хэчнээн",
+    "id": 586
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 289,
+    "Hanzi": "不但……而且……",
+    "Pinyin": "bùdàn……érqiě……",
+    "Mongolian Translation": "зөвхөн ... биш, бас ...",
+    "id": 587
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 290,
+    "Hanzi": "条",
+    "Pinyin": "tiáo",
+    "Mongolian Translation": "урт зүйлийн тоолох үг",
+    "id": 588
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 291,
+    "Hanzi": "一定",
+    "Pinyin": "yídìng",
+    "Mongolian Translation": "заавал, лавтай",
+    "id": 589
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 292,
+    "Hanzi": "担心",
+    "Pinyin": "dānxīn",
+    "Mongolian Translation": "санаа зовох",
+    "id": 590
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 293,
+    "Hanzi": "年轻",
+    "Pinyin": "niánqīng",
+    "Mongolian Translation": "залуу",
+    "id": 591
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 294,
+    "Hanzi": "起飞",
+    "Pinyin": "qǐfēi",
+    "Mongolian Translation": "хөөрөх",
+    "id": 592
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 295,
+    "Hanzi": "角",
+    "Pinyin": "jiǎo",
+    "Mongolian Translation": "өнцөг; мөнгөний нэгж",
+    "id": 593
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 296,
+    "Hanzi": "了解",
+    "Pinyin": "liǎojiě",
+    "Mongolian Translation": "ойлгох, мэдэх",
+    "id": 594
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 297,
+    "Hanzi": "必须",
+    "Pinyin": "bìxū",
+    "Mongolian Translation": "заавал, зайлшгүй",
+    "id": 595
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 298,
+    "Hanzi": "欢迎",
+    "Pinyin": "huānyíng",
+    "Mongolian Translation": "тавтай морил; угтах",
+    "id": 596
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 299,
+    "Hanzi": "比较",
+    "Pinyin": "bǐjiào",
+    "Mongolian Translation": "харьцангуй; харьцуулахад",
+    "id": 597
+  },
+  {
+    "section": "HSK 3",
+    "list_number": 300,
+    "Hanzi": "帮忙",
+    "Pinyin": "bāngmáng",
+    "Mongolian Translation": "туслах",
+    "id": 598
+  }
+]

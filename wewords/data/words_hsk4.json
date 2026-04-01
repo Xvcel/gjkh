@@ -1,0 +1,4794 @@
+[
+  {
+    "section": "HSK 4",
+    "list_number": 1,
+    "Hanzi": "形式",
+    "Pinyin": "xíngshì",
+    "Mongolian Translation": "хэлбэр",
+    "id": 599
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 2,
+    "Hanzi": "兴奋",
+    "Pinyin": "xīngfèn",
+    "Mongolian Translation": "догдлох, хөөрөх",
+    "id": 600
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 3,
+    "Hanzi": "耐心",
+    "Pinyin": "nàixīn",
+    "Mongolian Translation": "тэвчээр",
+    "id": 601
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 4,
+    "Hanzi": "放暑假",
+    "Pinyin": "fàng shǔjià",
+    "Mongolian Translation": "зуны амралтад гарах",
+    "id": 602
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 5,
+    "Hanzi": "克",
+    "Pinyin": "kè",
+    "Mongolian Translation": "грамм",
+    "id": 603
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 6,
+    "Hanzi": "刚",
+    "Pinyin": "gāng",
+    "Mongolian Translation": "дөнгөж сая",
+    "id": 604
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 7,
+    "Hanzi": "因此",
+    "Pinyin": "yīncǐ",
+    "Mongolian Translation": "иймээс, тиймээс",
+    "id": 605
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 8,
+    "Hanzi": "低",
+    "Pinyin": "dī",
+    "Mongolian Translation": "нам, бага",
+    "id": 606
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 9,
+    "Hanzi": "根本",
+    "Pinyin": "gēnběn",
+    "Mongolian Translation": "үндсэндээ, огт",
+    "id": 607
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 10,
+    "Hanzi": "竞争",
+    "Pinyin": "jìngzhēng",
+    "Mongolian Translation": "өрсөлдөх",
+    "id": 608
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 11,
+    "Hanzi": "伤心",
+    "Pinyin": "shāngxīn",
+    "Mongolian Translation": "гуниглах",
+    "id": 609
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 12,
+    "Hanzi": "药",
+    "Pinyin": "yào",
+    "Mongolian Translation": "эм",
+    "id": 610
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 13,
+    "Hanzi": "算",
+    "Pinyin": "suàn",
+    "Mongolian Translation": "тооцох; гэж үзэх",
+    "id": 611
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 14,
+    "Hanzi": "区别",
+    "Pinyin": "qūbié",
+    "Mongolian Translation": "ялгаа; ялгах",
+    "id": 612
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 15,
+    "Hanzi": "教授",
+    "Pinyin": "jiàoshòu",
+    "Mongolian Translation": "профессор",
+    "id": 613
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 16,
+    "Hanzi": "其中",
+    "Pinyin": "qízhōng",
+    "Mongolian Translation": "тэдний дунд, дотор нь",
+    "id": 614
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 17,
+    "Hanzi": "高档",
+    "Pinyin": "gāodàng",
+    "Mongolian Translation": "өндөр зэрэглэлийн",
+    "id": 615
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 18,
+    "Hanzi": "友好",
+    "Pinyin": "yǒuhǎo",
+    "Mongolian Translation": "найрсаг",
+    "id": 616
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 19,
+    "Hanzi": "墙",
+    "Pinyin": "qiáng",
+    "Mongolian Translation": "хана",
+    "id": 617
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 20,
+    "Hanzi": "等",
+    "Pinyin": "děng",
+    "Mongolian Translation": "хүлээх; зэрэг",
+    "id": 618
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 21,
+    "Hanzi": "养",
+    "Pinyin": "yǎng",
+    "Mongolian Translation": "өсгөх, тэжээх, арчлах",
+    "id": 619
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 22,
+    "Hanzi": "日记",
+    "Pinyin": "rìjì",
+    "Mongolian Translation": "өдрийн тэмдэглэл",
+    "id": 620
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 23,
+    "Hanzi": "建议",
+    "Pinyin": "jiànyì",
+    "Mongolian Translation": "санал, зөвлөмж; зөвлөх",
+    "id": 621
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 24,
+    "Hanzi": "满",
+    "Pinyin": "mǎn",
+    "Mongolian Translation": "дүүрэн",
+    "id": 622
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 25,
+    "Hanzi": "随便",
+    "Pinyin": "suíbiàn",
+    "Mongolian Translation": "хамаагүй, дураараа",
+    "id": 623
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 26,
+    "Hanzi": "也许",
+    "Pinyin": "yěxǔ",
+    "Mongolian Translation": "магадгүй",
+    "id": 624
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 27,
+    "Hanzi": "减肥",
+    "Pinyin": "jiǎnféi",
+    "Mongolian Translation": "жин хасах",
+    "id": 625
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 28,
+    "Hanzi": "过程",
+    "Pinyin": "guòchéng",
+    "Mongolian Translation": "явц, процесс",
+    "id": 626
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 29,
+    "Hanzi": "原来",
+    "Pinyin": "yuánlái",
+    "Mongolian Translation": "анхандаа; уг нь",
+    "id": 627
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 30,
+    "Hanzi": "旅行",
+    "Pinyin": "lǚxíng",
+    "Mongolian Translation": "аялах",
+    "id": 628
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 31,
+    "Hanzi": "百分之",
+    "Pinyin": "bǎifēnzhī",
+    "Mongolian Translation": "хувь",
+    "id": 629
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 32,
+    "Hanzi": "掉",
+    "Pinyin": "diào",
+    "Mongolian Translation": "унах; алдах",
+    "id": 630
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 33,
+    "Hanzi": "文章",
+    "Pinyin": "wénzhāng",
+    "Mongolian Translation": "өгүүлэл, нийтлэл",
+    "id": 631
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 34,
+    "Hanzi": "解决",
+    "Pinyin": "jiějué",
+    "Mongolian Translation": "шийдэх",
+    "id": 632
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 35,
+    "Hanzi": "往",
+    "Pinyin": "wǎng",
+    "Mongolian Translation": "зүг, руу",
+    "id": 633
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 36,
+    "Hanzi": "优秀",
+    "Pinyin": "yōuxiù",
+    "Mongolian Translation": "шилдэг, онц",
+    "id": 634
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 37,
+    "Hanzi": "吃惊",
+    "Pinyin": "chījīng",
+    "Mongolian Translation": "гайхах",
+    "id": 635
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 38,
+    "Hanzi": "录取",
+    "Pinyin": "lùqǔ",
+    "Mongolian Translation": "элсүүлэх, тэнцүүлэх",
+    "id": 636
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 39,
+    "Hanzi": "打扮",
+    "Pinyin": "dǎban",
+    "Mongolian Translation": "гоёх, хувцаслах",
+    "id": 637
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 40,
+    "Hanzi": "法律",
+    "Pinyin": "fǎlǜ",
+    "Mongolian Translation": "хууль",
+    "id": 638
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 41,
+    "Hanzi": "差不多",
+    "Pinyin": "chàbuduō",
+    "Mongolian Translation": "бараг, ойролцоо",
+    "id": 639
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 42,
+    "Hanzi": "服装",
+    "Pinyin": "fúzhuāng",
+    "Mongolian Translation": "хувцас",
+    "id": 640
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 43,
+    "Hanzi": "后边",
+    "Pinyin": "hòubian",
+    "Mongolian Translation": "ард, хойно",
+    "id": 641
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 44,
+    "Hanzi": "扶",
+    "Pinyin": "fú",
+    "Mongolian Translation": "түшиж босгох, тулах",
+    "id": 642
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 45,
+    "Hanzi": "更",
+    "Pinyin": "gèng",
+    "Mongolian Translation": "илүү",
+    "id": 643
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 46,
+    "Hanzi": "录",
+    "Pinyin": "lù",
+    "Mongolian Translation": "бичиж авах, хураах",
+    "id": 644
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 47,
+    "Hanzi": "感谢",
+    "Pinyin": "gǎnxiè",
+    "Mongolian Translation": "талархах",
+    "id": 645
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 48,
+    "Hanzi": "难道",
+    "Pinyin": "nándào",
+    "Mongolian Translation": "гэж үү, гэж байж уу",
+    "id": 646
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 49,
+    "Hanzi": "先",
+    "Pinyin": "xiān",
+    "Mongolian Translation": "түрүүнд, эхлээд",
+    "id": 647
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 50,
+    "Hanzi": "使用",
+    "Pinyin": "shǐyòng",
+    "Mongolian Translation": "хэрэглэх",
+    "id": 648
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 51,
+    "Hanzi": "丰富",
+    "Pinyin": "fēngfù",
+    "Mongolian Translation": "баялаг, элбэг",
+    "id": 649
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 52,
+    "Hanzi": "害羞",
+    "Pinyin": "hàixiū",
+    "Mongolian Translation": "ичих",
+    "id": 650
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 53,
+    "Hanzi": "亲戚",
+    "Pinyin": "qīnqi",
+    "Mongolian Translation": "төрөл садан",
+    "id": 651
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 54,
+    "Hanzi": "获得",
+    "Pinyin": "huòdé",
+    "Mongolian Translation": "олж авах",
+    "id": 652
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 55,
+    "Hanzi": "阳光",
+    "Pinyin": "yángguāng",
+    "Mongolian Translation": "нарны гэрэл",
+    "id": 653
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 56,
+    "Hanzi": "公里",
+    "Pinyin": "gōnglǐ",
+    "Mongolian Translation": "километр",
+    "id": 654
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 57,
+    "Hanzi": "散步",
+    "Pinyin": "sànbù",
+    "Mongolian Translation": "салхилах",
+    "id": 655
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 58,
+    "Hanzi": "基础",
+    "Pinyin": "jīchǔ",
+    "Mongolian Translation": "суурь",
+    "id": 656
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 59,
+    "Hanzi": "窗户",
+    "Pinyin": "chuānghu",
+    "Mongolian Translation": "цонх",
+    "id": 657
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 60,
+    "Hanzi": "于是",
+    "Pinyin": "yúshì",
+    "Mongolian Translation": "тэгээд, улмаар",
+    "id": 658
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 61,
+    "Hanzi": "广告",
+    "Pinyin": "guǎnggào",
+    "Mongolian Translation": "сурталчилгаа",
+    "id": 659
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 62,
+    "Hanzi": "样式",
+    "Pinyin": "yàngshì",
+    "Mongolian Translation": "загвар, хэлбэр",
+    "id": 660
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 63,
+    "Hanzi": "人类",
+    "Pinyin": "rénlèi",
+    "Mongolian Translation": "хүн төрөлхтөн",
+    "id": 661
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 64,
+    "Hanzi": "说明",
+    "Pinyin": "shuōmíng",
+    "Mongolian Translation": "тайлбарлах, тайлбар",
+    "id": 662
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 65,
+    "Hanzi": "经历",
+    "Pinyin": "jīnglì",
+    "Mongolian Translation": "туулж өнгөрүүлэх; туршлага",
+    "id": 663
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 66,
+    "Hanzi": "感情",
+    "Pinyin": "gǎnqíng",
+    "Mongolian Translation": "сэтгэл, мэдрэмж",
+    "id": 664
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 67,
+    "Hanzi": "理解",
+    "Pinyin": "lǐjiě",
+    "Mongolian Translation": "ойлгох",
+    "id": 665
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 68,
+    "Hanzi": "烦恼",
+    "Pinyin": "fánnǎo",
+    "Mongolian Translation": "санаа зовнил, шаналал",
+    "id": 666
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 69,
+    "Hanzi": "保证",
+    "Pinyin": "bǎozhèng",
+    "Mongolian Translation": "батлах, баталгаа өгөх",
+    "id": 667
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 70,
+    "Hanzi": "懒",
+    "Pinyin": "lǎn",
+    "Mongolian Translation": "залхуу",
+    "id": 668
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 71,
+    "Hanzi": "光",
+    "Pinyin": "guāng",
+    "Mongolian Translation": "гэрэл; зөвхөн",
+    "id": 669
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 72,
+    "Hanzi": "感动",
+    "Pinyin": "gǎndòng",
+    "Mongolian Translation": "сэтгэл хөдөлгөх, уяраах",
+    "id": 670
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 73,
+    "Hanzi": "海鲜",
+    "Pinyin": "hǎixiān",
+    "Mongolian Translation": "далайн хүнс",
+    "id": 671
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 74,
+    "Hanzi": "长城",
+    "Pinyin": "Chángchéng",
+    "Mongolian Translation": "Цагаан хэрэм",
+    "id": 672
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 75,
+    "Hanzi": "人民币",
+    "Pinyin": "rénmínbì",
+    "Mongolian Translation": "юань",
+    "id": 673
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 76,
+    "Hanzi": "流利",
+    "Pinyin": "liúlì",
+    "Mongolian Translation": "чөлөөтэй, түгдрэлгүй",
+    "id": 674
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 77,
+    "Hanzi": "灯",
+    "Pinyin": "dēng",
+    "Mongolian Translation": "гэрэл, чийдэн",
+    "id": 675
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 78,
+    "Hanzi": "皮肤",
+    "Pinyin": "pífū",
+    "Mongolian Translation": "арьс",
+    "id": 676
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 79,
+    "Hanzi": "污染",
+    "Pinyin": "wūrǎn",
+    "Mongolian Translation": "бохирдуулах; бохирдол",
+    "id": 677
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 80,
+    "Hanzi": "通过",
+    "Pinyin": "tōngguò",
+    "Mongolian Translation": "дамжих; тэнцэх",
+    "id": 678
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 81,
+    "Hanzi": "性格",
+    "Pinyin": "xìnggé",
+    "Mongolian Translation": "зан чанар",
+    "id": 679
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 82,
+    "Hanzi": "不过",
+    "Pinyin": "búguò",
+    "Mongolian Translation": "гэхдээ, гэвч",
+    "id": 680
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 83,
+    "Hanzi": "戴",
+    "Pinyin": "dài",
+    "Mongolian Translation": "өмсөх, зүүх",
+    "id": 681
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 84,
+    "Hanzi": "能力",
+    "Pinyin": "nénglì",
+    "Mongolian Translation": "чадвар",
+    "id": 682
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 85,
+    "Hanzi": "快乐",
+    "Pinyin": "kuàilè",
+    "Mongolian Translation": "баяртай, жаргалтай",
+    "id": 683
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 86,
+    "Hanzi": "部分",
+    "Pinyin": "bùfen",
+    "Mongolian Translation": "хэсэг",
+    "id": 684
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 87,
+    "Hanzi": "稍微",
+    "Pinyin": "shāowēi",
+    "Mongolian Translation": "жаахан",
+    "id": 685
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 88,
+    "Hanzi": "桥",
+    "Pinyin": "qiáo",
+    "Mongolian Translation": "гүүр",
+    "id": 686
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 89,
+    "Hanzi": "得意",
+    "Pinyin": "déyì",
+    "Mongolian Translation": "сэтгэл хангалуун, бардам",
+    "id": 687
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 90,
+    "Hanzi": "极其",
+    "Pinyin": "jíqí",
+    "Mongolian Translation": "маш, туйлын",
+    "id": 688
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 91,
+    "Hanzi": "危险",
+    "Pinyin": "wēixiǎn",
+    "Mongolian Translation": "аюултай",
+    "id": 689
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 92,
+    "Hanzi": "详细",
+    "Pinyin": "xiángxì",
+    "Mongolian Translation": "дэлгэрэнгүй",
+    "id": 690
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 93,
+    "Hanzi": "尝",
+    "Pinyin": "cháng",
+    "Mongolian Translation": "амсаж үзэх",
+    "id": 691
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 94,
+    "Hanzi": "盐",
+    "Pinyin": "yán",
+    "Mongolian Translation": "давс",
+    "id": 692
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 95,
+    "Hanzi": "所有",
+    "Pinyin": "suǒyǒu",
+    "Mongolian Translation": "бүх",
+    "id": 693
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 96,
+    "Hanzi": "目的",
+    "Pinyin": "mùdì",
+    "Mongolian Translation": "зорилго",
+    "id": 694
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 97,
+    "Hanzi": "硕士",
+    "Pinyin": "shuòshì",
+    "Mongolian Translation": "магистр",
+    "id": 695
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 98,
+    "Hanzi": "告别",
+    "Pinyin": "gàobié",
+    "Mongolian Translation": "салах ёс хийх",
+    "id": 696
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 99,
+    "Hanzi": "高原",
+    "Pinyin": "gāoyuán",
+    "Mongolian Translation": "өндөрлөг, тэгш өндөрлөг",
+    "id": 697
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 100,
+    "Hanzi": "业务",
+    "Pinyin": "yèwù",
+    "Mongolian Translation": "ажил хэрэг, бизнес",
+    "id": 698
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 101,
+    "Hanzi": "按时",
+    "Pinyin": "ànshí",
+    "Mongolian Translation": "цагтаа",
+    "id": 699
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 102,
+    "Hanzi": "结果",
+    "Pinyin": "jiéguǒ",
+    "Mongolian Translation": "үр дүн",
+    "id": 700
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 103,
+    "Hanzi": "难受",
+    "Pinyin": "nánshòu",
+    "Mongolian Translation": "тавгүй, шаналгаатай",
+    "id": 701
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 104,
+    "Hanzi": "火",
+    "Pinyin": "huǒ",
+    "Mongolian Translation": "гал",
+    "id": 702
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 105,
+    "Hanzi": "鼓励",
+    "Pinyin": "gǔlì",
+    "Mongolian Translation": "зоригжуулах",
+    "id": 703
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 106,
+    "Hanzi": "棒",
+    "Pinyin": "bàng",
+    "Mongolian Translation": "гайхалтай, сайн",
+    "id": 704
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 107,
+    "Hanzi": "师傅",
+    "Pinyin": "shīfu",
+    "Mongolian Translation": "мастер, жолооч ах",
+    "id": 705
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 108,
+    "Hanzi": "性别",
+    "Pinyin": "xìngbié",
+    "Mongolian Translation": "хүйс",
+    "id": 706
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 109,
+    "Hanzi": "留",
+    "Pinyin": "liú",
+    "Mongolian Translation": "үлдээх, үлдэх",
+    "id": 707
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 110,
+    "Hanzi": "富",
+    "Pinyin": "fù",
+    "Mongolian Translation": "баян",
+    "id": 708
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 111,
+    "Hanzi": "醒",
+    "Pinyin": "xǐng",
+    "Mongolian Translation": "сэрэх",
+    "id": 709
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 112,
+    "Hanzi": "相反",
+    "Pinyin": "xiāngfǎn",
+    "Mongolian Translation": "эсрэгээрээ",
+    "id": 710
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 113,
+    "Hanzi": "敢",
+    "Pinyin": "gǎn",
+    "Mongolian Translation": "зүрхлэх",
+    "id": 711
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 114,
+    "Hanzi": "实在",
+    "Pinyin": "shízài",
+    "Mongolian Translation": "үнэхээр",
+    "id": 712
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 115,
+    "Hanzi": "影响",
+    "Pinyin": "yǐngxiǎng",
+    "Mongolian Translation": "нөлөөлөх; нөлөө",
+    "id": 713
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 116,
+    "Hanzi": "汗",
+    "Pinyin": "hàn",
+    "Mongolian Translation": "хөлс",
+    "id": 714
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 117,
+    "Hanzi": "厚",
+    "Pinyin": "hòu",
+    "Mongolian Translation": "зузаан",
+    "id": 715
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 118,
+    "Hanzi": "发展",
+    "Pinyin": "fāzhǎn",
+    "Mongolian Translation": "хөгжих, хөгжүүлэх",
+    "id": 716
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 119,
+    "Hanzi": "邀请",
+    "Pinyin": "yāoqǐng",
+    "Mongolian Translation": "урих",
+    "id": 717
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 120,
+    "Hanzi": "永远",
+    "Pinyin": "yǒngyuǎn",
+    "Mongolian Translation": "үүрд, үргэлж",
+    "id": 718
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 121,
+    "Hanzi": "阶段",
+    "Pinyin": "jiēduàn",
+    "Mongolian Translation": "үе шат",
+    "id": 719
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 122,
+    "Hanzi": "起飞",
+    "Pinyin": "qǐfēi",
+    "Mongolian Translation": "хөөрөх",
+    "id": 720
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 123,
+    "Hanzi": "篇",
+    "Pinyin": "piān",
+    "Mongolian Translation": "бичвэрийн тоолох үг",
+    "id": 721
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 124,
+    "Hanzi": "效果",
+    "Pinyin": "xiàoguǒ",
+    "Mongolian Translation": "үр дүн, нөлөө",
+    "id": 722
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 125,
+    "Hanzi": "节日",
+    "Pinyin": "jiérì",
+    "Mongolian Translation": "баярын өдөр",
+    "id": 723
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 126,
+    "Hanzi": "减少",
+    "Pinyin": "jiǎnshǎo",
+    "Mongolian Translation": "багасгах",
+    "id": 724
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 127,
+    "Hanzi": "担心",
+    "Pinyin": "dānxīn",
+    "Mongolian Translation": "санаа зовох",
+    "id": 725
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 128,
+    "Hanzi": "信用卡",
+    "Pinyin": "xìnyòngkǎ",
+    "Mongolian Translation": "кредит карт",
+    "id": 726
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 129,
+    "Hanzi": "现实",
+    "Pinyin": "xiànshí",
+    "Mongolian Translation": "бодит байдал",
+    "id": 727
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 130,
+    "Hanzi": "比如",
+    "Pinyin": "bǐrú",
+    "Mongolian Translation": "жишээлбэл",
+    "id": 728
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 131,
+    "Hanzi": "长江",
+    "Pinyin": "Cháng Jiāng",
+    "Mongolian Translation": "Хөх мөрөн",
+    "id": 729
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 132,
+    "Hanzi": "社会",
+    "Pinyin": "shèhuì",
+    "Mongolian Translation": "нийгэм",
+    "id": 730
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 133,
+    "Hanzi": "笨",
+    "Pinyin": "bèn",
+    "Mongolian Translation": "тэнэг, болхи",
+    "id": 731
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 134,
+    "Hanzi": "笔记",
+    "Pinyin": "bǐjì",
+    "Mongolian Translation": "тэмдэглэл",
+    "id": 732
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 135,
+    "Hanzi": "导游",
+    "Pinyin": "dǎoyóu",
+    "Mongolian Translation": "хөтөч",
+    "id": 733
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 136,
+    "Hanzi": "无聊",
+    "Pinyin": "wúliáo",
+    "Mongolian Translation": "уйтгартай",
+    "id": 734
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 137,
+    "Hanzi": "现金",
+    "Pinyin": "xiànjīn",
+    "Mongolian Translation": "бэлэн мөнгө",
+    "id": 735
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 138,
+    "Hanzi": "否则",
+    "Pinyin": "fǒuzé",
+    "Mongolian Translation": "эс тэгвээс",
+    "id": 736
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 139,
+    "Hanzi": "由于",
+    "Pinyin": "yóuyú",
+    "Mongolian Translation": "...-аас болж",
+    "id": 737
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 140,
+    "Hanzi": "显然",
+    "Pinyin": "xiǎnrán",
+    "Mongolian Translation": "илт, мэдээж",
+    "id": 738
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 141,
+    "Hanzi": "眼镜",
+    "Pinyin": "yǎnjìng",
+    "Mongolian Translation": "нүдний шил",
+    "id": 739
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 142,
+    "Hanzi": "梦",
+    "Pinyin": "mèng",
+    "Mongolian Translation": "зүүд",
+    "id": 740
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 143,
+    "Hanzi": "小说",
+    "Pinyin": "xiǎoshuō",
+    "Mongolian Translation": "роман, өгүүллэг",
+    "id": 741
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 144,
+    "Hanzi": "讨厌",
+    "Pinyin": "tǎoyàn",
+    "Mongolian Translation": "үзэн ядах; дургүй хүрмээр",
+    "id": 742
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 145,
+    "Hanzi": "底",
+    "Pinyin": "dǐ",
+    "Mongolian Translation": "ёроол, суурь",
+    "id": 743
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 146,
+    "Hanzi": "集合",
+    "Pinyin": "jíhé",
+    "Mongolian Translation": "цугларах, цуглуулах",
+    "id": 744
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 147,
+    "Hanzi": "记者",
+    "Pinyin": "jìzhě",
+    "Mongolian Translation": "сэтгүүлч",
+    "id": 745
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 148,
+    "Hanzi": "进行",
+    "Pinyin": "jìnxíng",
+    "Mongolian Translation": "явуулах, хийх",
+    "id": 746
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 149,
+    "Hanzi": "葡萄",
+    "Pinyin": "pútao",
+    "Mongolian Translation": "усан үзэм",
+    "id": 747
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 150,
+    "Hanzi": "工资",
+    "Pinyin": "gōngzī",
+    "Mongolian Translation": "цалин",
+    "id": 748
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 151,
+    "Hanzi": "轻",
+    "Pinyin": "qīng",
+    "Mongolian Translation": "хөнгөн",
+    "id": 749
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 152,
+    "Hanzi": "暗",
+    "Pinyin": "àn",
+    "Mongolian Translation": "харанхуй",
+    "id": 750
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 153,
+    "Hanzi": "收",
+    "Pinyin": "shōu",
+    "Mongolian Translation": "авах, хураах",
+    "id": 751
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 154,
+    "Hanzi": "回答",
+    "Pinyin": "huídá",
+    "Mongolian Translation": "хариулах",
+    "id": 752
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 155,
+    "Hanzi": "世纪",
+    "Pinyin": "shìjì",
+    "Mongolian Translation": "зуун",
+    "id": 753
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 156,
+    "Hanzi": "抱歉",
+    "Pinyin": "bàoqiàn",
+    "Mongolian Translation": "уучлаарай",
+    "id": 754
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 157,
+    "Hanzi": "提供",
+    "Pinyin": "tígōng",
+    "Mongolian Translation": "хангах, нийлүүлэх",
+    "id": 755
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 158,
+    "Hanzi": "方面",
+    "Pinyin": "fāngmiàn",
+    "Mongolian Translation": "тал, чиглэл",
+    "id": 756
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 159,
+    "Hanzi": "暖和",
+    "Pinyin": "nuǎnhuo",
+    "Mongolian Translation": "дулаахан",
+    "id": 757
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 160,
+    "Hanzi": "出差",
+    "Pinyin": "chūchāi",
+    "Mongolian Translation": "томилолтоор явах",
+    "id": 758
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 161,
+    "Hanzi": "舒服",
+    "Pinyin": "shūfu",
+    "Mongolian Translation": "тухтай",
+    "id": 759
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 162,
+    "Hanzi": "温度",
+    "Pinyin": "wēndù",
+    "Mongolian Translation": "температур",
+    "id": 760
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 163,
+    "Hanzi": "家具",
+    "Pinyin": "jiājù",
+    "Mongolian Translation": "тавилга",
+    "id": 761
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 164,
+    "Hanzi": "千万",
+    "Pinyin": "qiānwàn",
+    "Mongolian Translation": "заавал; яавч",
+    "id": 762
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 165,
+    "Hanzi": "打针",
+    "Pinyin": "dǎzhēn",
+    "Mongolian Translation": "тариа хийх",
+    "id": 763
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 166,
+    "Hanzi": "打扰",
+    "Pinyin": "dǎrǎo",
+    "Mongolian Translation": "төвөг болох, саад хийх",
+    "id": 764
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 167,
+    "Hanzi": "堵车",
+    "Pinyin": "dǔchē",
+    "Mongolian Translation": "түгжрэх",
+    "id": 765
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 168,
+    "Hanzi": "手机",
+    "Pinyin": "shǒujī",
+    "Mongolian Translation": "гар утас",
+    "id": 766
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 169,
+    "Hanzi": "失败",
+    "Pinyin": "shībài",
+    "Mongolian Translation": "ялагдах, бүтэлгүйтэх",
+    "id": 767
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 170,
+    "Hanzi": "发烧",
+    "Pinyin": "fāshāo",
+    "Mongolian Translation": "халуурах",
+    "id": 768
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 171,
+    "Hanzi": "力气",
+    "Pinyin": "lìqi",
+    "Mongolian Translation": "хүч",
+    "id": 769
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 172,
+    "Hanzi": "缺点",
+    "Pinyin": "quēdiǎn",
+    "Mongolian Translation": "сул тал",
+    "id": 770
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 173,
+    "Hanzi": "扔",
+    "Pinyin": "rēng",
+    "Mongolian Translation": "шидэх, хаях",
+    "id": 771
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 174,
+    "Hanzi": "来得及",
+    "Pinyin": "láidejí",
+    "Mongolian Translation": "амжих",
+    "id": 772
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 175,
+    "Hanzi": "挂",
+    "Pinyin": "guà",
+    "Mongolian Translation": "өлгөх",
+    "id": 773
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 176,
+    "Hanzi": "号码",
+    "Pinyin": "hàomǎ",
+    "Mongolian Translation": "дугаар",
+    "id": 774
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 177,
+    "Hanzi": "可爱",
+    "Pinyin": "kě’ài",
+    "Mongolian Translation": "хөөрхөн",
+    "id": 775
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 178,
+    "Hanzi": "严重",
+    "Pinyin": "yánzhòng",
+    "Mongolian Translation": "ноцтой",
+    "id": 776
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 179,
+    "Hanzi": "水平",
+    "Pinyin": "shuǐpíng",
+    "Mongolian Translation": "түвшин",
+    "id": 777
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 180,
+    "Hanzi": "实际",
+    "Pinyin": "shíjì",
+    "Mongolian Translation": "бодит, практик",
+    "id": 778
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 181,
+    "Hanzi": "密码",
+    "Pinyin": "mìmǎ",
+    "Mongolian Translation": "нууц үг",
+    "id": 779
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 182,
+    "Hanzi": "条件",
+    "Pinyin": "tiáojiàn",
+    "Mongolian Translation": "нөхцөл",
+    "id": 780
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 183,
+    "Hanzi": "课程",
+    "Pinyin": "kèchéng",
+    "Mongolian Translation": "хичээл, курс",
+    "id": 781
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 184,
+    "Hanzi": "负责",
+    "Pinyin": "fùzé",
+    "Mongolian Translation": "хариуцах",
+    "id": 782
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 185,
+    "Hanzi": "夸",
+    "Pinyin": "kuā",
+    "Mongolian Translation": "магтах",
+    "id": 783
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 186,
+    "Hanzi": "信心",
+    "Pinyin": "xìnxīn",
+    "Mongolian Translation": "итгэл",
+    "id": 784
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 187,
+    "Hanzi": "当然",
+    "Pinyin": "dāngrán",
+    "Mongolian Translation": "мэдээж",
+    "id": 785
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 188,
+    "Hanzi": "香蕉",
+    "Pinyin": "xiāngjiāo",
+    "Mongolian Translation": "банана",
+    "id": 786
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 189,
+    "Hanzi": "借",
+    "Pinyin": "jiè",
+    "Mongolian Translation": "зээлэх; түр авах",
+    "id": 787
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 190,
+    "Hanzi": "爱情",
+    "Pinyin": "àiqíng",
+    "Mongolian Translation": "хайр дурлал",
+    "id": 788
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 191,
+    "Hanzi": "沙发",
+    "Pinyin": "shāfā",
+    "Mongolian Translation": "буйдан",
+    "id": 789
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 192,
+    "Hanzi": "应聘",
+    "Pinyin": "yìngpìn",
+    "Mongolian Translation": "ажилд орохоор өргөдөл гаргах",
+    "id": 790
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 193,
+    "Hanzi": "特点",
+    "Pinyin": "tèdiǎn",
+    "Mongolian Translation": "онцлог",
+    "id": 791
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 194,
+    "Hanzi": "响",
+    "Pinyin": "xiǎng",
+    "Mongolian Translation": "дуугарах",
+    "id": 792
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 195,
+    "Hanzi": "反对",
+    "Pinyin": "fǎnduì",
+    "Mongolian Translation": "эсэргүүцэх",
+    "id": 793
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 196,
+    "Hanzi": "结",
+    "Pinyin": "jié",
+    "Mongolian Translation": "зангидах; зангилаа",
+    "id": 794
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 197,
+    "Hanzi": "发现",
+    "Pinyin": "fāxiàn",
+    "Mongolian Translation": "олж мэдэх, илрүүлэх",
+    "id": 795
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 198,
+    "Hanzi": "空间",
+    "Pinyin": "kōngjiān",
+    "Mongolian Translation": "орон зай",
+    "id": 796
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 199,
+    "Hanzi": "餐厅",
+    "Pinyin": "cāntīng",
+    "Mongolian Translation": "ресторан",
+    "id": 797
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 200,
+    "Hanzi": "岁",
+    "Pinyin": "suì",
+    "Mongolian Translation": "нас",
+    "id": 798
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 201,
+    "Hanzi": "博士",
+    "Pinyin": "bóshì",
+    "Mongolian Translation": "доктор",
+    "id": 799
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 202,
+    "Hanzi": "友谊",
+    "Pinyin": "yǒuyì",
+    "Mongolian Translation": "нөхөрлөл",
+    "id": 800
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 203,
+    "Hanzi": "聊",
+    "Pinyin": "liáo",
+    "Mongolian Translation": "хөөрөлдөх",
+    "id": 801
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 204,
+    "Hanzi": "语言",
+    "Pinyin": "yǔyán",
+    "Mongolian Translation": "хэл",
+    "id": 802
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 205,
+    "Hanzi": "原因",
+    "Pinyin": "yuányīn",
+    "Mongolian Translation": "шалтгаан",
+    "id": 803
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 206,
+    "Hanzi": "任何",
+    "Pinyin": "rènhé",
+    "Mongolian Translation": "ямар ч",
+    "id": 804
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 207,
+    "Hanzi": "外",
+    "Pinyin": "wài",
+    "Mongolian Translation": "гадна",
+    "id": 805
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 208,
+    "Hanzi": "形容",
+    "Pinyin": "xíngróng",
+    "Mongolian Translation": "дүрслэх",
+    "id": 806
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 209,
+    "Hanzi": "停止",
+    "Pinyin": "tíngzhǐ",
+    "Mongolian Translation": "зогсоох, зогсох",
+    "id": 807
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 210,
+    "Hanzi": "标准",
+    "Pinyin": "biāozhǔn",
+    "Mongolian Translation": "стандарт, шалгуур",
+    "id": 808
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 211,
+    "Hanzi": "律师",
+    "Pinyin": "lǜshī",
+    "Mongolian Translation": "хуульч",
+    "id": 809
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 212,
+    "Hanzi": "假",
+    "Pinyin": "jià",
+    "Mongolian Translation": "амралт, чөлөө",
+    "id": 810
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 213,
+    "Hanzi": "刀",
+    "Pinyin": "dāo",
+    "Mongolian Translation": "хутга",
+    "id": 811
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 214,
+    "Hanzi": "苦",
+    "Pinyin": "kǔ",
+    "Mongolian Translation": "гашуун; хэцүү",
+    "id": 812
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 215,
+    "Hanzi": "结婚",
+    "Pinyin": "jiéhūn",
+    "Mongolian Translation": "гэрлэх",
+    "id": 813
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 216,
+    "Hanzi": "商量",
+    "Pinyin": "shāngliang",
+    "Mongolian Translation": "зөвлөлдөх",
+    "id": 814
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 217,
+    "Hanzi": "表扬",
+    "Pinyin": "biǎoyáng",
+    "Mongolian Translation": "магтах, сайшаах",
+    "id": 815
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 218,
+    "Hanzi": "拥抱",
+    "Pinyin": "yōngbào",
+    "Mongolian Translation": "тэврэх",
+    "id": 816
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 219,
+    "Hanzi": "硬",
+    "Pinyin": "yìng",
+    "Mongolian Translation": "хатуу",
+    "id": 817
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 220,
+    "Hanzi": "陪",
+    "Pinyin": "péi",
+    "Mongolian Translation": "хамт байх, бараа болох",
+    "id": 818
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 221,
+    "Hanzi": "顺利",
+    "Pinyin": "shùnlì",
+    "Mongolian Translation": "бүтэмжтэй, саадгүй",
+    "id": 819
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 222,
+    "Hanzi": "手续",
+    "Pinyin": "shǒuxù",
+    "Mongolian Translation": "бичиг баримтын ажиллагаа, журам",
+    "id": 820
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 223,
+    "Hanzi": "第",
+    "Pinyin": "dì",
+    "Mongolian Translation": "дэс тооны угтвар",
+    "id": 821
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 224,
+    "Hanzi": "复述",
+    "Pinyin": "fùshù",
+    "Mongolian Translation": "дахин ярьж өгөх",
+    "id": 822
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 225,
+    "Hanzi": "理想",
+    "Pinyin": "lǐxiǎng",
+    "Mongolian Translation": "мөрөөдөл, идеал",
+    "id": 823
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 226,
+    "Hanzi": "平时",
+    "Pinyin": "píngshí",
+    "Mongolian Translation": "энгийн үед, ихэвчлэн",
+    "id": 824
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 227,
+    "Hanzi": "躺",
+    "Pinyin": "tǎng",
+    "Mongolian Translation": "хэвтэх",
+    "id": 825
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 228,
+    "Hanzi": "推",
+    "Pinyin": "tuī",
+    "Mongolian Translation": "түлхэх",
+    "id": 826
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 229,
+    "Hanzi": "紧张",
+    "Pinyin": "jǐnzhāng",
+    "Mongolian Translation": "сандарсан, түгшүүртэй",
+    "id": 827
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 230,
+    "Hanzi": "可靠",
+    "Pinyin": "kěkào",
+    "Mongolian Translation": "найдвартай",
+    "id": 828
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 231,
+    "Hanzi": "合格",
+    "Pinyin": "hégé",
+    "Mongolian Translation": "шаардлага хангах",
+    "id": 829
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 232,
+    "Hanzi": "国籍",
+    "Pinyin": "guójí",
+    "Mongolian Translation": "иргэншил",
+    "id": 830
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 233,
+    "Hanzi": "尽管",
+    "Pinyin": "jǐnguǎn",
+    "Mongolian Translation": "хэдий тийм боловч",
+    "id": 831
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 234,
+    "Hanzi": "干净",
+    "Pinyin": "gānjìng",
+    "Mongolian Translation": "цэвэр",
+    "id": 832
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 235,
+    "Hanzi": "有趣",
+    "Pinyin": "yǒuqù",
+    "Mongolian Translation": "сонирхолтой",
+    "id": 833
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 236,
+    "Hanzi": "网球",
+    "Pinyin": "wǎngqiú",
+    "Mongolian Translation": "теннис",
+    "id": 834
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 237,
+    "Hanzi": "关键",
+    "Pinyin": "guānjiàn",
+    "Mongolian Translation": "гол, чухал зүйл",
+    "id": 835
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 238,
+    "Hanzi": "语法",
+    "Pinyin": "yǔfǎ",
+    "Mongolian Translation": "дүрэм",
+    "id": 836
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 239,
+    "Hanzi": "面包",
+    "Pinyin": "miànbāo",
+    "Mongolian Translation": "талх",
+    "id": 837
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 240,
+    "Hanzi": "大夫",
+    "Pinyin": "dàifu",
+    "Mongolian Translation": "эмч",
+    "id": 838
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 241,
+    "Hanzi": "父亲",
+    "Pinyin": "fùqin",
+    "Mongolian Translation": "аав",
+    "id": 839
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 242,
+    "Hanzi": "训练",
+    "Pinyin": "xùnliàn",
+    "Mongolian Translation": "сургах, бэлтгэх",
+    "id": 840
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 243,
+    "Hanzi": "到底",
+    "Pinyin": "dàodǐ",
+    "Mongolian Translation": "эцэст нь; яг үнэндээ",
+    "id": 841
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 244,
+    "Hanzi": "避免",
+    "Pinyin": "bìmiǎn",
+    "Mongolian Translation": "зайлсхийх",
+    "id": 842
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 245,
+    "Hanzi": "管理",
+    "Pinyin": "guǎnlǐ",
+    "Mongolian Translation": "удирдах, менежмент хийх",
+    "id": 843
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 246,
+    "Hanzi": "建筑",
+    "Pinyin": "jiànzhù",
+    "Mongolian Translation": "барилга; барих",
+    "id": 844
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 247,
+    "Hanzi": "国际",
+    "Pinyin": "guójì",
+    "Mongolian Translation": "олон улсын",
+    "id": 845
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 248,
+    "Hanzi": "双",
+    "Pinyin": "shuāng",
+    "Mongolian Translation": "хос",
+    "id": 846
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 249,
+    "Hanzi": "省",
+    "Pinyin": "shěng",
+    "Mongolian Translation": "муж; хэмнэх",
+    "id": 847
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 250,
+    "Hanzi": "符合",
+    "Pinyin": "fúhé",
+    "Mongolian Translation": "нийцэх, тохирох",
+    "id": 848
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 251,
+    "Hanzi": "钢笔",
+    "Pinyin": "gāngbǐ",
+    "Mongolian Translation": "бэхэн үзэг",
+    "id": 849
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 252,
+    "Hanzi": "幸福",
+    "Pinyin": "xìngfú",
+    "Mongolian Translation": "аз жаргалтай",
+    "id": 850
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 253,
+    "Hanzi": "擦",
+    "Pinyin": "cā",
+    "Mongolian Translation": "арчих",
+    "id": 851
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 254,
+    "Hanzi": "从来",
+    "Pinyin": "cónglái",
+    "Mongolian Translation": "хэзээ ч; үргэлж",
+    "id": 852
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 255,
+    "Hanzi": "生活",
+    "Pinyin": "shēnghuó",
+    "Mongolian Translation": "амьдрал; амьдрах",
+    "id": 853
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 256,
+    "Hanzi": "行",
+    "Pinyin": "xíng",
+    "Mongolian Translation": "болох, болно",
+    "id": 854
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 257,
+    "Hanzi": "生意",
+    "Pinyin": "shēngyi",
+    "Mongolian Translation": "бизнес, худалдаа",
+    "id": 855
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 258,
+    "Hanzi": "经验",
+    "Pinyin": "jīngyàn",
+    "Mongolian Translation": "туршлага",
+    "id": 856
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 259,
+    "Hanzi": "发表",
+    "Pinyin": "fābiǎo",
+    "Mongolian Translation": "нийтлэх, илэрхийлэх",
+    "id": 857
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 260,
+    "Hanzi": "填空",
+    "Pinyin": "tiánkòng",
+    "Mongolian Translation": "хоосон зай нөхөх",
+    "id": 858
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 261,
+    "Hanzi": "放松",
+    "Pinyin": "fàngsōng",
+    "Mongolian Translation": "амрах, сулрах",
+    "id": 859
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 262,
+    "Hanzi": "观点",
+    "Pinyin": "guāndiǎn",
+    "Mongolian Translation": "үзэл бодол",
+    "id": 860
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 263,
+    "Hanzi": "谈",
+    "Pinyin": "tán",
+    "Mongolian Translation": "ярилцах",
+    "id": 861
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 264,
+    "Hanzi": "定",
+    "Pinyin": "dìng",
+    "Mongolian Translation": "тогтоох; захиалах",
+    "id": 862
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 265,
+    "Hanzi": "取",
+    "Pinyin": "qǔ",
+    "Mongolian Translation": "авах",
+    "id": 863
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 266,
+    "Hanzi": "元",
+    "Pinyin": "yuán",
+    "Mongolian Translation": "юань; мөнгөний нэгж",
+    "id": 864
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 267,
+    "Hanzi": "母亲",
+    "Pinyin": "mǔqīn",
+    "Mongolian Translation": "ээж",
+    "id": 865
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 268,
+    "Hanzi": "高速公路",
+    "Pinyin": "gāosù gōnglù",
+    "Mongolian Translation": "хурдны зам",
+    "id": 866
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 269,
+    "Hanzi": "距离",
+    "Pinyin": "jùlí",
+    "Mongolian Translation": "зай, зайтай байх",
+    "id": 867
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 270,
+    "Hanzi": "表达",
+    "Pinyin": "biǎodá",
+    "Mongolian Translation": "илэрхийлэх",
+    "id": 868
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 271,
+    "Hanzi": "同时",
+    "Pinyin": "tóngshí",
+    "Mongolian Translation": "нэгэн зэрэг",
+    "id": 869
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 272,
+    "Hanzi": "安全",
+    "Pinyin": "ānquán",
+    "Mongolian Translation": "аюулгүй",
+    "id": 870
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 273,
+    "Hanzi": "方向",
+    "Pinyin": "fāngxiàng",
+    "Mongolian Translation": "чиглэл",
+    "id": 871
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 274,
+    "Hanzi": "引起",
+    "Pinyin": "yǐnqǐ",
+    "Mongolian Translation": "өдөөх, бий болгох",
+    "id": 872
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 275,
+    "Hanzi": "成为",
+    "Pinyin": "chéngwéi",
+    "Mongolian Translation": "болох",
+    "id": 873
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 276,
+    "Hanzi": "学术",
+    "Pinyin": "xuéshù",
+    "Mongolian Translation": "академик, шинжлэх ухааны",
+    "id": 874
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 277,
+    "Hanzi": "弹钢琴",
+    "Pinyin": "tán gāngqín",
+    "Mongolian Translation": "төгөлдөр хуур тоглох",
+    "id": 875
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 278,
+    "Hanzi": "坚持",
+    "Pinyin": "jiānchí",
+    "Mongolian Translation": "тууштай байх, үргэлжлүүлэх",
+    "id": 876
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 279,
+    "Hanzi": "交通",
+    "Pinyin": "jiāotōng",
+    "Mongolian Translation": "зам тээвэр, хөдөлгөөн",
+    "id": 877
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 280,
+    "Hanzi": "拉",
+    "Pinyin": "lā",
+    "Mongolian Translation": "татах",
+    "id": 878
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 281,
+    "Hanzi": "活动",
+    "Pinyin": "huódòng",
+    "Mongolian Translation": "үйл ажиллагаа",
+    "id": 879
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 282,
+    "Hanzi": "背",
+    "Pinyin": "bēi",
+    "Mongolian Translation": "үүрэх",
+    "id": 880
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 283,
+    "Hanzi": "乱",
+    "Pinyin": "luàn",
+    "Mongolian Translation": "эмх замбараагүй",
+    "id": 881
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 284,
+    "Hanzi": "先后",
+    "Pinyin": "xiānhòu",
+    "Mongolian Translation": "дараалан; өмнө хойно",
+    "id": 882
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 285,
+    "Hanzi": "回忆",
+    "Pinyin": "huíyì",
+    "Mongolian Translation": "дурсах; дурсамж",
+    "id": 883
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 286,
+    "Hanzi": "困难",
+    "Pinyin": "kùnnan",
+    "Mongolian Translation": "бэрхшээлтэй, хэцүү",
+    "id": 884
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 287,
+    "Hanzi": "顿",
+    "Pinyin": "dùn",
+    "Mongolian Translation": "хоолны удаагийн тоолох үг",
+    "id": 885
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 288,
+    "Hanzi": "出生",
+    "Pinyin": "chūshēng",
+    "Mongolian Translation": "төрөх",
+    "id": 886
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 289,
+    "Hanzi": "签证",
+    "Pinyin": "qiānzhèng",
+    "Mongolian Translation": "виз",
+    "id": 887
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 290,
+    "Hanzi": "普通话",
+    "Pinyin": "pǔtōnghuà",
+    "Mongolian Translation": "путунхуа, стандарт хятад хэл",
+    "id": 888
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 291,
+    "Hanzi": "邮局",
+    "Pinyin": "yóujú",
+    "Mongolian Translation": "шуудан",
+    "id": 889
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 292,
+    "Hanzi": "人口",
+    "Pinyin": "rénkǒu",
+    "Mongolian Translation": "хүн ам",
+    "id": 890
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 293,
+    "Hanzi": "无论",
+    "Pinyin": "wúlùn",
+    "Mongolian Translation": "хамаагүй, ямар ч байсан",
+    "id": 891
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 294,
+    "Hanzi": "份",
+    "Pinyin": "fèn",
+    "Mongolian Translation": "хувь, ширхэгийн тоолох үг",
+    "id": 892
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 295,
+    "Hanzi": "结束",
+    "Pinyin": "jiéshù",
+    "Mongolian Translation": "дуусгах, дуусах",
+    "id": 893
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 296,
+    "Hanzi": "而",
+    "Pinyin": "ér",
+    "Mongolian Translation": "харин, бөгөөд",
+    "id": 894
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 297,
+    "Hanzi": "保护",
+    "Pinyin": "bǎohù",
+    "Mongolian Translation": "хамгаалах",
+    "id": 895
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 298,
+    "Hanzi": "可怜",
+    "Pinyin": "kělián",
+    "Mongolian Translation": "өрөвдмөөр",
+    "id": 896
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 299,
+    "Hanzi": "工程师",
+    "Pinyin": "gōngchéngshī",
+    "Mongolian Translation": "инженер",
+    "id": 897
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 300,
+    "Hanzi": "请假",
+    "Pinyin": "qǐngjià",
+    "Mongolian Translation": "чөлөө хүсэх",
+    "id": 898
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 301,
+    "Hanzi": "学期",
+    "Pinyin": "xuéqī",
+    "Mongolian Translation": "семестр",
+    "id": 899
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 302,
+    "Hanzi": "猜",
+    "Pinyin": "cāi",
+    "Mongolian Translation": "таах",
+    "id": 900
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 303,
+    "Hanzi": "提前",
+    "Pinyin": "tíqián",
+    "Mongolian Translation": "урьдчилан",
+    "id": 901
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 304,
+    "Hanzi": "熟练",
+    "Pinyin": "shúliàn",
+    "Mongolian Translation": "дадлагатай, чадварлаг",
+    "id": 902
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 305,
+    "Hanzi": "老虎",
+    "Pinyin": "lǎohǔ",
+    "Mongolian Translation": "бар",
+    "id": 903
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 306,
+    "Hanzi": "寄",
+    "Pinyin": "jì",
+    "Mongolian Translation": "шуудангаар явуулах",
+    "id": 904
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 307,
+    "Hanzi": "吸引",
+    "Pinyin": "xīyǐn",
+    "Mongolian Translation": "татах, сэтгэл татах",
+    "id": 905
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 308,
+    "Hanzi": "超过",
+    "Pinyin": "chāoguò",
+    "Mongolian Translation": "давах, хэтрэх",
+    "id": 906
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 309,
+    "Hanzi": "数字",
+    "Pinyin": "shùzì",
+    "Mongolian Translation": "тоо",
+    "id": 907
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 310,
+    "Hanzi": "拒绝",
+    "Pinyin": "jùjué",
+    "Mongolian Translation": "татгалзах",
+    "id": 908
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 311,
+    "Hanzi": "饼干",
+    "Pinyin": "bǐnggān",
+    "Mongolian Translation": "жигнэмэг",
+    "id": 909
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 312,
+    "Hanzi": "绿",
+    "Pinyin": "lǜ",
+    "Mongolian Translation": "ногоон",
+    "id": 910
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 313,
+    "Hanzi": "高兴",
+    "Pinyin": "gāoxìng",
+    "Mongolian Translation": "баяртай, баярлах",
+    "id": 911
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 314,
+    "Hanzi": "健康",
+    "Pinyin": "jiànkāng",
+    "Mongolian Translation": "эрүүл, эрүүл мэнд",
+    "id": 912
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 315,
+    "Hanzi": "警察",
+    "Pinyin": "jǐngchá",
+    "Mongolian Translation": "цагдаа",
+    "id": 913
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 316,
+    "Hanzi": "深",
+    "Pinyin": "shēn",
+    "Mongolian Translation": "гүн",
+    "id": 914
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 317,
+    "Hanzi": "面",
+    "Pinyin": "miàn",
+    "Mongolian Translation": "нүүр; гадаргуу",
+    "id": 915
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 318,
+    "Hanzi": "皮",
+    "Pinyin": "pí",
+    "Mongolian Translation": "хальс, арьс",
+    "id": 916
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 319,
+    "Hanzi": "仍然",
+    "Pinyin": "réngrán",
+    "Mongolian Translation": "хэвээр, одоо ч",
+    "id": 917
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 320,
+    "Hanzi": "入口",
+    "Pinyin": "rùkǒu",
+    "Mongolian Translation": "орох хаалга, орц",
+    "id": 918
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 321,
+    "Hanzi": "尤其",
+    "Pinyin": "yóuqí",
+    "Mongolian Translation": "ялангуяа",
+    "id": 919
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 322,
+    "Hanzi": "讨论",
+    "Pinyin": "tǎolùn",
+    "Mongolian Translation": "хэлэлцэх",
+    "id": 920
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 323,
+    "Hanzi": "甚至",
+    "Pinyin": "shènzhì",
+    "Mongolian Translation": "бүр, тэр ч бүү хэл",
+    "id": 921
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 324,
+    "Hanzi": "抱",
+    "Pinyin": "bào",
+    "Mongolian Translation": "тэврэх",
+    "id": 922
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 325,
+    "Hanzi": "不仅",
+    "Pinyin": "bùjǐn",
+    "Mongolian Translation": "зөвхөн ... биш",
+    "id": 923
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 326,
+    "Hanzi": "瓶子",
+    "Pinyin": "píngzi",
+    "Mongolian Translation": "шил, сав",
+    "id": 924
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 327,
+    "Hanzi": "按照",
+    "Pinyin": "ànzhào",
+    "Mongolian Translation": "дагуу, ёсоор",
+    "id": 925
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 328,
+    "Hanzi": "确定",
+    "Pinyin": "quèdìng",
+    "Mongolian Translation": "тогтоох; тодорхой болгох",
+    "id": 926
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 329,
+    "Hanzi": "马虎",
+    "Pinyin": "mǎhu",
+    "Mongolian Translation": "хайнга, хайхрамжгүй",
+    "id": 927
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 330,
+    "Hanzi": "安排",
+    "Pinyin": "ānpái",
+    "Mongolian Translation": "зохион байгуулах, төлөвлөх",
+    "id": 928
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 331,
+    "Hanzi": "艺术",
+    "Pinyin": "yìshù",
+    "Mongolian Translation": "урлаг",
+    "id": 929
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 332,
+    "Hanzi": "断",
+    "Pinyin": "duàn",
+    "Mongolian Translation": "тасрах, таслах",
+    "id": 930
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 333,
+    "Hanzi": "细心",
+    "Pinyin": "xìxīn",
+    "Mongolian Translation": "нямбай, анхааралтай",
+    "id": 931
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 334,
+    "Hanzi": "放弃",
+    "Pinyin": "fàngqì",
+    "Mongolian Translation": "орхих, болих",
+    "id": 932
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 335,
+    "Hanzi": "翻译",
+    "Pinyin": "fānyì",
+    "Mongolian Translation": "орчуулах; орчуулагч",
+    "id": 933
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 336,
+    "Hanzi": "打印",
+    "Pinyin": "dǎyìn",
+    "Mongolian Translation": "хэвлэх",
+    "id": 934
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 337,
+    "Hanzi": "森林",
+    "Pinyin": "sēnlín",
+    "Mongolian Translation": "ой",
+    "id": 935
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 338,
+    "Hanzi": "究竟",
+    "Pinyin": "jiūjìng",
+    "Mongolian Translation": "яг, эцсийн дүнд",
+    "id": 936
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 339,
+    "Hanzi": "镜子",
+    "Pinyin": "jìngzi",
+    "Mongolian Translation": "толь",
+    "id": 937
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 340,
+    "Hanzi": "味道",
+    "Pinyin": "wèidao",
+    "Mongolian Translation": "амт, үнэр",
+    "id": 938
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 341,
+    "Hanzi": "试",
+    "Pinyin": "shì",
+    "Mongolian Translation": "турших",
+    "id": 939
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 342,
+    "Hanzi": "任务",
+    "Pinyin": "rènwu",
+    "Mongolian Translation": "даалгавар",
+    "id": 940
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 343,
+    "Hanzi": "群",
+    "Pinyin": "qún",
+    "Mongolian Translation": "бүлэг, сүрэг",
+    "id": 941
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 344,
+    "Hanzi": "客户",
+    "Pinyin": "kèhù",
+    "Mongolian Translation": "харилцагч",
+    "id": 942
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 345,
+    "Hanzi": "好像",
+    "Pinyin": "hǎoxiàng",
+    "Mongolian Translation": "юм шиг, мэт",
+    "id": 943
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 346,
+    "Hanzi": "技术",
+    "Pinyin": "jìshù",
+    "Mongolian Translation": "техник, ур чадвар",
+    "id": 944
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 347,
+    "Hanzi": "估计",
+    "Pinyin": "gūjì",
+    "Mongolian Translation": "таамаглах, тооцоолох",
+    "id": 945
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 348,
+    "Hanzi": "同情",
+    "Pinyin": "tóngqíng",
+    "Mongolian Translation": "өрөвдөх; өрөвдөх сэтгэл",
+    "id": 946
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 349,
+    "Hanzi": "大概",
+    "Pinyin": "dàgài",
+    "Mongolian Translation": "ойролцоогоор, магадгүй",
+    "id": 947
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 350,
+    "Hanzi": "形成",
+    "Pinyin": "xíngchéng",
+    "Mongolian Translation": "бий болох, бүрэлдэх",
+    "id": 948
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 351,
+    "Hanzi": "合适",
+    "Pinyin": "héshì",
+    "Mongolian Translation": "тохиромжтой",
+    "id": 949
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 352,
+    "Hanzi": "敲",
+    "Pinyin": "qiāo",
+    "Mongolian Translation": "тогших, цохих",
+    "id": 950
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 353,
+    "Hanzi": "冷静",
+    "Pinyin": "lěngjìng",
+    "Mongolian Translation": "тайван, хүйтэн ухаантай",
+    "id": 951
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 354,
+    "Hanzi": "收入",
+    "Pinyin": "shōurù",
+    "Mongolian Translation": "орлого",
+    "id": 952
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 355,
+    "Hanzi": "乒乓球",
+    "Pinyin": "pīngpāngqiú",
+    "Mongolian Translation": "ширээний теннис",
+    "id": 953
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 356,
+    "Hanzi": "食品",
+    "Pinyin": "shípǐn",
+    "Mongolian Translation": "хүнсний бүтээгдэхүүн",
+    "id": 954
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 357,
+    "Hanzi": "价格",
+    "Pinyin": "jiàgé",
+    "Mongolian Translation": "үнэ",
+    "id": 955
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 358,
+    "Hanzi": "内容",
+    "Pinyin": "nèiróng",
+    "Mongolian Translation": "агуулга",
+    "id": 956
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 359,
+    "Hanzi": "判断",
+    "Pinyin": "pànduàn",
+    "Mongolian Translation": "дүгнэх, тогтоох",
+    "id": 957
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 360,
+    "Hanzi": "像",
+    "Pinyin": "xiàng",
+    "Mongolian Translation": "шиг, адил",
+    "id": 958
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 361,
+    "Hanzi": "下降",
+    "Pinyin": "xiàjiàng",
+    "Mongolian Translation": "буурах, доошлох",
+    "id": 959
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 362,
+    "Hanzi": "下午",
+    "Pinyin": "xiàwǔ",
+    "Mongolian Translation": "үдээс хойш",
+    "id": 960
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 363,
+    "Hanzi": "顺序",
+    "Pinyin": "shùnxù",
+    "Mongolian Translation": "дараалал",
+    "id": 961
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 364,
+    "Hanzi": "存",
+    "Pinyin": "cún",
+    "Mongolian Translation": "хадгалах",
+    "id": 962
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 365,
+    "Hanzi": "全部",
+    "Pinyin": "quánbù",
+    "Mongolian Translation": "бүгд",
+    "id": 963
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 366,
+    "Hanzi": "朵",
+    "Pinyin": "duǒ",
+    "Mongolian Translation": "цэцэг, үүл зэрэгт орох тоолох үг",
+    "id": 964
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 367,
+    "Hanzi": "重新",
+    "Pinyin": "chóngxīn",
+    "Mongolian Translation": "дахин, шинээр",
+    "id": 965
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 368,
+    "Hanzi": "感觉",
+    "Pinyin": "gǎnjué",
+    "Mongolian Translation": "мэдрэх; мэдрэмж",
+    "id": 966
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 369,
+    "Hanzi": "需要",
+    "Pinyin": "xūyào",
+    "Mongolian Translation": "хэрэгтэй байх",
+    "id": 967
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 370,
+    "Hanzi": "理发",
+    "Pinyin": "lǐfà",
+    "Mongolian Translation": "үс засах, үс засуулах",
+    "id": 968
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 371,
+    "Hanzi": "空调",
+    "Pinyin": "kōngtiáo",
+    "Mongolian Translation": "агааржуулагч",
+    "id": 969
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 372,
+    "Hanzi": "加油站",
+    "Pinyin": "jiāyóuzhàn",
+    "Mongolian Translation": "шатахуун түгээх газар",
+    "id": 970
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 373,
+    "Hanzi": "参观",
+    "Pinyin": "cānguān",
+    "Mongolian Translation": "үзэж сонирхох, зочлох",
+    "id": 971
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 374,
+    "Hanzi": "地球",
+    "Pinyin": "dìqiú",
+    "Mongolian Translation": "дэлхий",
+    "id": 972
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 375,
+    "Hanzi": "场",
+    "Pinyin": "chǎng",
+    "Mongolian Translation": "талбай; удаагийн тоолох үг",
+    "id": 973
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 376,
+    "Hanzi": "片",
+    "Pinyin": "piàn",
+    "Mongolian Translation": "хэсэг, нимгэн зүйл",
+    "id": 974
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 377,
+    "Hanzi": "想法",
+    "Pinyin": "xiǎngfa",
+    "Mongolian Translation": "бодол, санаа",
+    "id": 975
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 378,
+    "Hanzi": "大约",
+    "Pinyin": "dàyuē",
+    "Mongolian Translation": "ойролцоогоор",
+    "id": 976
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 379,
+    "Hanzi": "一切",
+    "Pinyin": "yíqiè",
+    "Mongolian Translation": "бүх зүйл",
+    "id": 977
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 380,
+    "Hanzi": "脾气",
+    "Pinyin": "píqi",
+    "Mongolian Translation": "ааш, зан",
+    "id": 978
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 381,
+    "Hanzi": "成功",
+    "Pinyin": "chénggōng",
+    "Mongolian Translation": "амжилт; амжилттай болох",
+    "id": 979
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 382,
+    "Hanzi": "破",
+    "Pinyin": "pò",
+    "Mongolian Translation": "эвдэрсэн, цоорсон",
+    "id": 980
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 383,
+    "Hanzi": "汤",
+    "Pinyin": "tāng",
+    "Mongolian Translation": "шөл",
+    "id": 981
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 384,
+    "Hanzi": "哈",
+    "Pinyin": "hā",
+    "Mongolian Translation": "ха, аа",
+    "id": 982
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 385,
+    "Hanzi": "所以",
+    "Pinyin": "suǒyǐ",
+    "Mongolian Translation": "тиймээс",
+    "id": 983
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 386,
+    "Hanzi": "后来",
+    "Pinyin": "hòulái",
+    "Mongolian Translation": "дараа нь",
+    "id": 984
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 387,
+    "Hanzi": "厉害",
+    "Pinyin": "lìhai",
+    "Mongolian Translation": "сүрхий, хүчтэй",
+    "id": 985
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 388,
+    "Hanzi": "接着",
+    "Pinyin": "jiēzhe",
+    "Mongolian Translation": "үргэлжлүүлэн, дараа нь",
+    "id": 986
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 389,
+    "Hanzi": "得",
+    "Pinyin": "de",
+    "Mongolian Translation": "үйл үгийн туслах үг",
+    "id": 987
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 390,
+    "Hanzi": "热情",
+    "Pinyin": "rèqíng",
+    "Mongolian Translation": "халуун дотно",
+    "id": 988
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 391,
+    "Hanzi": "起来",
+    "Pinyin": "qǐlái",
+    "Mongolian Translation": "босох; ...ж эхлэх",
+    "id": 989
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 392,
+    "Hanzi": "失望",
+    "Pinyin": "shīwàng",
+    "Mongolian Translation": "урам хугарах",
+    "id": 990
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 393,
+    "Hanzi": "改变",
+    "Pinyin": "gǎibiàn",
+    "Mongolian Translation": "өөрчлөх, өөрчлөгдөх",
+    "id": 991
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 394,
+    "Hanzi": "经济",
+    "Pinyin": "jīngjì",
+    "Mongolian Translation": "эдийн засаг; хэмнэлттэй",
+    "id": 992
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 395,
+    "Hanzi": "民族",
+    "Pinyin": "mínzú",
+    "Mongolian Translation": "үндэстэн, ястан",
+    "id": 993
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 396,
+    "Hanzi": "楼梯",
+    "Pinyin": "lóutī",
+    "Mongolian Translation": "шат",
+    "id": 994
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 397,
+    "Hanzi": "竟然",
+    "Pinyin": "jìngrán",
+    "Mongolian Translation": "бүр, санаандгүйгээр",
+    "id": 995
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 398,
+    "Hanzi": "交朋友",
+    "Pinyin": "jiāo péngyou",
+    "Mongolian Translation": "найз нөхөд болох",
+    "id": 996
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 399,
+    "Hanzi": "计划",
+    "Pinyin": "jìhuà",
+    "Mongolian Translation": "төлөвлөгөө; төлөвлөх",
+    "id": 997
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 400,
+    "Hanzi": "编",
+    "Pinyin": "biān",
+    "Mongolian Translation": "зохиох; сүлжих",
+    "id": 998
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 401,
+    "Hanzi": "怀疑",
+    "Pinyin": "huáiyí",
+    "Mongolian Translation": "сэжиглэх, эргэлзэх",
+    "id": 999
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 402,
+    "Hanzi": "积极",
+    "Pinyin": "jījí",
+    "Mongolian Translation": "идэвхтэй, эерэг",
+    "id": 1000
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 403,
+    "Hanzi": "动作",
+    "Pinyin": "dòngzuò",
+    "Mongolian Translation": "хөдөлгөөн, үйлдэл",
+    "id": 1001
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 404,
+    "Hanzi": "后悔",
+    "Pinyin": "hòuhuǐ",
+    "Mongolian Translation": "харамсах",
+    "id": 1002
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 405,
+    "Hanzi": "成熟",
+    "Pinyin": "chéngshú",
+    "Mongolian Translation": "боловсорсон; төлөвшсөн",
+    "id": 1003
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 406,
+    "Hanzi": "排队",
+    "Pinyin": "páiduì",
+    "Mongolian Translation": "дугаарлах",
+    "id": 1004
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 407,
+    "Hanzi": "便",
+    "Pinyin": "biàn",
+    "Mongolian Translation": "тохиромжтой, амар",
+    "id": 1005
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 408,
+    "Hanzi": "打折",
+    "Pinyin": "dǎzhé",
+    "Mongolian Translation": "хямдрал хийх",
+    "id": 1006
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 409,
+    "Hanzi": "无",
+    "Pinyin": "wú",
+    "Mongolian Translation": "үгүй, байхгүй",
+    "id": 1007
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 410,
+    "Hanzi": "书",
+    "Pinyin": "shū",
+    "Mongolian Translation": "ном",
+    "id": 1008
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 411,
+    "Hanzi": "厕所",
+    "Pinyin": "cèsuǒ",
+    "Mongolian Translation": "жорлон",
+    "id": 1009
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 412,
+    "Hanzi": "骄傲",
+    "Pinyin": "jiāo’ào",
+    "Mongolian Translation": "бахархах; бардам",
+    "id": 1010
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 413,
+    "Hanzi": "房东",
+    "Pinyin": "fángdōng",
+    "Mongolian Translation": "байрны эзэн",
+    "id": 1011
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 414,
+    "Hanzi": "笑话",
+    "Pinyin": "xiàohua",
+    "Mongolian Translation": "онигоо",
+    "id": 1012
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 415,
+    "Hanzi": "吓",
+    "Pinyin": "xià",
+    "Mongolian Translation": "айлгах",
+    "id": 1013
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 416,
+    "Hanzi": "精神",
+    "Pinyin": "jīngshen",
+    "Mongolian Translation": "сэтгэл санаа, оюун",
+    "id": 1014
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 417,
+    "Hanzi": "对面",
+    "Pinyin": "duìmiàn",
+    "Mongolian Translation": "өөдөөс, эсрэг тал",
+    "id": 1015
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 418,
+    "Hanzi": "客气",
+    "Pinyin": "kèqi",
+    "Mongolian Translation": "эелдэг; хэрэггүй дээ",
+    "id": 1016
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 419,
+    "Hanzi": "赢",
+    "Pinyin": "yíng",
+    "Mongolian Translation": "ялах",
+    "id": 1017
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 420,
+    "Hanzi": "勇敢",
+    "Pinyin": "yǒnggǎn",
+    "Mongolian Translation": "зоригтой",
+    "id": 1018
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 421,
+    "Hanzi": "干",
+    "Pinyin": "gàn",
+    "Mongolian Translation": "хийх",
+    "id": 1019
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 422,
+    "Hanzi": "介绍",
+    "Pinyin": "jièshào",
+    "Mongolian Translation": "танилцуулах",
+    "id": 1020
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 423,
+    "Hanzi": "积累",
+    "Pinyin": "jīlěi",
+    "Mongolian Translation": "хуримтлуулах",
+    "id": 1021
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 424,
+    "Hanzi": "逛",
+    "Pinyin": "guàng",
+    "Mongolian Translation": "зугаалан явах, дэлгүүр хэсэх",
+    "id": 1022
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 425,
+    "Hanzi": "打招呼",
+    "Pinyin": "dǎ zhāohu",
+    "Mongolian Translation": "мэндлэх",
+    "id": 1023
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 426,
+    "Hanzi": "握手",
+    "Pinyin": "wòshǒu",
+    "Mongolian Translation": "гар барих",
+    "id": 1024
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 427,
+    "Hanzi": "爬",
+    "Pinyin": "pá",
+    "Mongolian Translation": "авирах, мөлхөх",
+    "id": 1025
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 428,
+    "Hanzi": "航班",
+    "Pinyin": "hángbān",
+    "Mongolian Translation": "нислэг",
+    "id": 1026
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 429,
+    "Hanzi": "联系",
+    "Pinyin": "liánxì",
+    "Mongolian Translation": "холбоо барих",
+    "id": 1027
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 430,
+    "Hanzi": "可是",
+    "Pinyin": "kěshì",
+    "Mongolian Translation": "гэхдээ",
+    "id": 1028
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 431,
+    "Hanzi": "速度",
+    "Pinyin": "sùdù",
+    "Mongolian Translation": "хурд",
+    "id": 1029
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 432,
+    "Hanzi": "刻",
+    "Pinyin": "kè",
+    "Mongolian Translation": "мөч; дөрөвний нэг цаг",
+    "id": 1030
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 433,
+    "Hanzi": "校长",
+    "Pinyin": "xiàozhǎng",
+    "Mongolian Translation": "сургуулийн захирал",
+    "id": 1031
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 434,
+    "Hanzi": "传真",
+    "Pinyin": "chuánzhēn",
+    "Mongolian Translation": "факс",
+    "id": 1032
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 435,
+    "Hanzi": "发",
+    "Pinyin": "fā",
+    "Mongolian Translation": "илгээх, гаргах",
+    "id": 1033
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 436,
+    "Hanzi": "信",
+    "Pinyin": "xìn",
+    "Mongolian Translation": "захиа; итгэх",
+    "id": 1034
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 437,
+    "Hanzi": "洗手间",
+    "Pinyin": "xǐshǒujiān",
+    "Mongolian Translation": "бие засах газар",
+    "id": 1035
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 438,
+    "Hanzi": "互联网",
+    "Pinyin": "hùliánwǎng",
+    "Mongolian Translation": "интернэт",
+    "id": 1036
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 439,
+    "Hanzi": "申请",
+    "Pinyin": "shēnqǐng",
+    "Mongolian Translation": "өргөдөл гаргах, хүсэлт гаргах",
+    "id": 1037
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 440,
+    "Hanzi": "里边的",
+    "Pinyin": "lǐbian de",
+    "Mongolian Translation": "доторх",
+    "id": 1038
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 441,
+    "Hanzi": "根据",
+    "Pinyin": "gēnjù",
+    "Mongolian Translation": "үндэслэн, дагуу",
+    "id": 1039
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 442,
+    "Hanzi": "气候",
+    "Pinyin": "qìhòu",
+    "Mongolian Translation": "уур амьсгал",
+    "id": 1040
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 443,
+    "Hanzi": "软",
+    "Pinyin": "ruǎn",
+    "Mongolian Translation": "зөөлөн",
+    "id": 1041
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 444,
+    "Hanzi": "太阳",
+    "Pinyin": "tàiyáng",
+    "Mongolian Translation": "нар",
+    "id": 1042
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 445,
+    "Hanzi": "年龄",
+    "Pinyin": "niánlíng",
+    "Mongolian Translation": "нас",
+    "id": 1043
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 446,
+    "Hanzi": "歌手",
+    "Pinyin": "gēshǒu",
+    "Mongolian Translation": "дуучин",
+    "id": 1044
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 447,
+    "Hanzi": "帅",
+    "Pinyin": "shuài",
+    "Mongolian Translation": "царайлаг",
+    "id": 1045
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 448,
+    "Hanzi": "手工",
+    "Pinyin": "shǒugōng",
+    "Mongolian Translation": "гар ажиллагаа, гар урлал",
+    "id": 1046
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 449,
+    "Hanzi": "提",
+    "Pinyin": "tí",
+    "Mongolian Translation": "өргөх; дурдах",
+    "id": 1047
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 450,
+    "Hanzi": "精彩",
+    "Pinyin": "jīngcǎi",
+    "Mongolian Translation": "гайхалтай, сонирхолтой",
+    "id": 1048
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 451,
+    "Hanzi": "寒假",
+    "Pinyin": "hánjià",
+    "Mongolian Translation": "өвлийн амралт",
+    "id": 1049
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 452,
+    "Hanzi": "糖",
+    "Pinyin": "táng",
+    "Mongolian Translation": "чихэр, сахар",
+    "id": 1050
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 453,
+    "Hanzi": "句子",
+    "Pinyin": "jùzi",
+    "Mongolian Translation": "өгүүлбэр",
+    "id": 1051
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 454,
+    "Hanzi": "不得不",
+    "Pinyin": "bùdébù",
+    "Mongolian Translation": "аргагүй, зайлшгүй",
+    "id": 1052
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 455,
+    "Hanzi": "激动",
+    "Pinyin": "jīdòng",
+    "Mongolian Translation": "сэтгэл хөдлөх",
+    "id": 1053
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 456,
+    "Hanzi": "流行",
+    "Pinyin": "liúxíng",
+    "Mongolian Translation": "моод болох, түгээмэл",
+    "id": 1054
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 457,
+    "Hanzi": "顺便",
+    "Pinyin": "shùnbiàn",
+    "Mongolian Translation": "далимд нь, замдаа",
+    "id": 1055
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 458,
+    "Hanzi": "选择",
+    "Pinyin": "xuǎnzé",
+    "Mongolian Translation": "сонгох",
+    "id": 1056
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 459,
+    "Hanzi": "丢",
+    "Pinyin": "diū",
+    "Mongolian Translation": "алдах, гээх",
+    "id": 1057
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 460,
+    "Hanzi": "死",
+    "Pinyin": "sǐ",
+    "Mongolian Translation": "үхэх",
+    "id": 1058
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 461,
+    "Hanzi": "系统",
+    "Pinyin": "xìtǒng",
+    "Mongolian Translation": "систем",
+    "id": 1059
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 462,
+    "Hanzi": "可惜",
+    "Pinyin": "kěxī",
+    "Mongolian Translation": "харамсалтай",
+    "id": 1060
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 463,
+    "Hanzi": "寻找",
+    "Pinyin": "xúnzhǎo",
+    "Mongolian Translation": "хайх",
+    "id": 1061
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 464,
+    "Hanzi": "乘坐",
+    "Pinyin": "chéngzuò",
+    "Mongolian Translation": "унаагаар явах",
+    "id": 1062
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 465,
+    "Hanzi": "本来",
+    "Pinyin": "běnlái",
+    "Mongolian Translation": "уг нь, анхнаасаа",
+    "id": 1063
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 466,
+    "Hanzi": "情况",
+    "Pinyin": "qíngkuàng",
+    "Mongolian Translation": "байдал, нөхцөл",
+    "id": 1064
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 467,
+    "Hanzi": "穷",
+    "Pinyin": "qióng",
+    "Mongolian Translation": "ядуу",
+    "id": 1065
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 468,
+    "Hanzi": "答案",
+    "Pinyin": "dá’àn",
+    "Mongolian Translation": "хариулт",
+    "id": 1066
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 469,
+    "Hanzi": "消息",
+    "Pinyin": "xiāoxi",
+    "Mongolian Translation": "мэдээ, сураг",
+    "id": 1067
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 470,
+    "Hanzi": "误会",
+    "Pinyin": "wùhuì",
+    "Mongolian Translation": "буруу ойлгох; үл ойлголцол",
+    "id": 1068
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 471,
+    "Hanzi": "问题",
+    "Pinyin": "wèntí",
+    "Mongolian Translation": "асуудал, асуулт",
+    "id": 1069
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 472,
+    "Hanzi": "西红柿",
+    "Pinyin": "xīhóngshì",
+    "Mongolian Translation": "улаан лооль",
+    "id": 1070
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 473,
+    "Hanzi": "请客",
+    "Pinyin": "qǐngkè",
+    "Mongolian Translation": "дайлах",
+    "id": 1071
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 474,
+    "Hanzi": "轻松",
+    "Pinyin": "qīngsōng",
+    "Mongolian Translation": "амар, тайван",
+    "id": 1072
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 475,
+    "Hanzi": "盒子",
+    "Pinyin": "hézi",
+    "Mongolian Translation": "хайрцаг",
+    "id": 1073
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 476,
+    "Hanzi": "老",
+    "Pinyin": "lǎo",
+    "Mongolian Translation": "хөгшин; хуучин",
+    "id": 1074
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 477,
+    "Hanzi": "够",
+    "Pinyin": "gòu",
+    "Mongolian Translation": "хүрэлцэх",
+    "id": 1075
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 478,
+    "Hanzi": "优点",
+    "Pinyin": "yōudiǎn",
+    "Mongolian Translation": "давуу тал",
+    "id": 1076
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 479,
+    "Hanzi": "网站",
+    "Pinyin": "wǎngzhàn",
+    "Mongolian Translation": "вэбсайт",
+    "id": 1077
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 480,
+    "Hanzi": "了解",
+    "Pinyin": "liǎojiě",
+    "Mongolian Translation": "ойлгох, мэдэх",
+    "id": 1078
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 481,
+    "Hanzi": "到处",
+    "Pinyin": "dàochù",
+    "Mongolian Translation": "хаа сайгүй",
+    "id": 1079
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 482,
+    "Hanzi": "羽毛球",
+    "Pinyin": "yǔmáoqiú",
+    "Mongolian Translation": "бадминтон",
+    "id": 1080
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 483,
+    "Hanzi": "并且",
+    "Pinyin": "bìngqiě",
+    "Mongolian Translation": "мөн, түүнчлэн",
+    "id": 1081
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 484,
+    "Hanzi": "麻烦",
+    "Pinyin": "máfan",
+    "Mongolian Translation": "төвөг, чирэгдэл",
+    "id": 1082
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 485,
+    "Hanzi": "果然",
+    "Pinyin": "guǒrán",
+    "Mongolian Translation": "үнэхээр, ёсоороо",
+    "id": 1083
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 486,
+    "Hanzi": "毛巾",
+    "Pinyin": "máojīn",
+    "Mongolian Translation": "алчуур",
+    "id": 1084
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 487,
+    "Hanzi": "过期",
+    "Pinyin": "guòqī",
+    "Mongolian Translation": "хугацаа дуусах",
+    "id": 1085
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 488,
+    "Hanzi": "其次",
+    "Pinyin": "qícì",
+    "Mongolian Translation": "дараа нь, хоёрдугаарт",
+    "id": 1086
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 489,
+    "Hanzi": "要",
+    "Pinyin": "yào",
+    "Mongolian Translation": "хэрэгтэй, хүсэх, болох гэж",
+    "id": 1087
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 490,
+    "Hanzi": "购物",
+    "Pinyin": "gòuwù",
+    "Mongolian Translation": "дэлгүүр хэсэх, юм худалдаж авах",
+    "id": 1088
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 491,
+    "Hanzi": "观察",
+    "Pinyin": "guānchá",
+    "Mongolian Translation": "ажиглах",
+    "id": 1089
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 492,
+    "Hanzi": "紧",
+    "Pinyin": "jǐn",
+    "Mongolian Translation": "чанга, нягт",
+    "id": 1090
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 493,
+    "Hanzi": "意见",
+    "Pinyin": "yìjiàn",
+    "Mongolian Translation": "санал, үзэл бодол",
+    "id": 1091
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 494,
+    "Hanzi": "幅",
+    "Pinyin": "fú",
+    "Mongolian Translation": "зураг зэрэгт орох тоолох үг",
+    "id": 1092
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 495,
+    "Hanzi": "市场",
+    "Pinyin": "shìchǎng",
+    "Mongolian Translation": "зах зээл",
+    "id": 1093
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 496,
+    "Hanzi": "加班",
+    "Pinyin": "jiābān",
+    "Mongolian Translation": "илүү цагаар ажиллах",
+    "id": 1094
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 497,
+    "Hanzi": "向",
+    "Pinyin": "xiàng",
+    "Mongolian Translation": "руу, хандах",
+    "id": 1095
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 498,
+    "Hanzi": "提醒",
+    "Pinyin": "tíxǐng",
+    "Mongolian Translation": "сануулах",
+    "id": 1096
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 499,
+    "Hanzi": "内",
+    "Pinyin": "nèi",
+    "Mongolian Translation": "дотор, дотоод",
+    "id": 1097
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 500,
+    "Hanzi": "护士",
+    "Pinyin": "hùshi",
+    "Mongolian Translation": "сувилагч",
+    "id": 1098
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 501,
+    "Hanzi": "确实",
+    "Pinyin": "quèshí",
+    "Mongolian Translation": "үнэхээр",
+    "id": 1099
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 502,
+    "Hanzi": "抽烟",
+    "Pinyin": "chōuyān",
+    "Mongolian Translation": "тамхи татах",
+    "id": 1100
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 503,
+    "Hanzi": "瘦",
+    "Pinyin": "shòu",
+    "Mongolian Translation": "туранхай",
+    "id": 1101
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 504,
+    "Hanzi": "高度",
+    "Pinyin": "gāodù",
+    "Mongolian Translation": "өндөр; түвшин",
+    "id": 1102
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 505,
+    "Hanzi": "约会",
+    "Pinyin": "yuēhuì",
+    "Mongolian Translation": "болзох; уулзалт",
+    "id": 1103
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 506,
+    "Hanzi": "教室",
+    "Pinyin": "jiàoshì",
+    "Mongolian Translation": "анги танхим",
+    "id": 1104
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 507,
+    "Hanzi": "好处",
+    "Pinyin": "hǎochu",
+    "Mongolian Translation": "ашиг тус",
+    "id": 1105
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 508,
+    "Hanzi": "来不及",
+    "Pinyin": "láibují",
+    "Mongolian Translation": "амжихгүй",
+    "id": 1106
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 509,
+    "Hanzi": "骗",
+    "Pinyin": "piàn",
+    "Mongolian Translation": "хуурах, мэхлэх",
+    "id": 1107
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 510,
+    "Hanzi": "相反",
+    "Pinyin": "xiāngfǎn",
+    "Mongolian Translation": "эсрэгээрээ",
+    "id": 1108
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 511,
+    "Hanzi": "态度",
+    "Pinyin": "tàidu",
+    "Mongolian Translation": "хандлага",
+    "id": 1109
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 512,
+    "Hanzi": "印象",
+    "Pinyin": "yìnxiàng",
+    "Mongolian Translation": "сэтгэгдэл",
+    "id": 1110
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 513,
+    "Hanzi": "页",
+    "Pinyin": "yè",
+    "Mongolian Translation": "хуудас",
+    "id": 1111
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 514,
+    "Hanzi": "完全",
+    "Pinyin": "wánquán",
+    "Mongolian Translation": "бүрэн, огт",
+    "id": 1112
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 515,
+    "Hanzi": "预习",
+    "Pinyin": "yùxí",
+    "Mongolian Translation": "урьдчилан давтах, бэлтгэх",
+    "id": 1113
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 516,
+    "Hanzi": "包",
+    "Pinyin": "bāo",
+    "Mongolian Translation": "цүнх; боох",
+    "id": 1114
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 517,
+    "Hanzi": "海关",
+    "Pinyin": "hǎiguān",
+    "Mongolian Translation": "гааль",
+    "id": 1115
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 518,
+    "Hanzi": "方法",
+    "Pinyin": "fāngfǎ",
+    "Mongolian Translation": "арга",
+    "id": 1116
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 519,
+    "Hanzi": "禁止",
+    "Pinyin": "jìnzhǐ",
+    "Mongolian Translation": "хориглох",
+    "id": 1117
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 520,
+    "Hanzi": "包括",
+    "Pinyin": "bāokuò",
+    "Mongolian Translation": "багтаах, оруулах",
+    "id": 1118
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 521,
+    "Hanzi": "工具",
+    "Pinyin": "gōngjù",
+    "Mongolian Translation": "багаж, хэрэгсэл",
+    "id": 1119
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 522,
+    "Hanzi": "新闻",
+    "Pinyin": "xīnwén",
+    "Mongolian Translation": "мэдээ",
+    "id": 1120
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 523,
+    "Hanzi": "面条",
+    "Pinyin": "miàntiáo",
+    "Mongolian Translation": "гоймон",
+    "id": 1121
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 524,
+    "Hanzi": "当时",
+    "Pinyin": "dāngshí",
+    "Mongolian Translation": "тухайн үед",
+    "id": 1122
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 525,
+    "Hanzi": "出发",
+    "Pinyin": "chūfā",
+    "Mongolian Translation": "хөдлөх, явах",
+    "id": 1123
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 526,
+    "Hanzi": "生命",
+    "Pinyin": "shēngmìng",
+    "Mongolian Translation": "амь, амьдрал",
+    "id": 1124
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 527,
+    "Hanzi": "免费",
+    "Pinyin": "miǎnfèi",
+    "Mongolian Translation": "үнэгүй",
+    "id": 1125
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 528,
+    "Hanzi": "脱",
+    "Pinyin": "tuō",
+    "Mongolian Translation": "тайлах",
+    "id": 1126
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 529,
+    "Hanzi": "地址",
+    "Pinyin": "dìzhǐ",
+    "Mongolian Translation": "хаяг",
+    "id": 1127
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 530,
+    "Hanzi": "讲",
+    "Pinyin": "jiǎng",
+    "Mongolian Translation": "ярих",
+    "id": 1128
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 531,
+    "Hanzi": "接受",
+    "Pinyin": "jiēshòu",
+    "Mongolian Translation": "хүлээн авах",
+    "id": 1129
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 532,
+    "Hanzi": "便宜",
+    "Pinyin": "piányi",
+    "Mongolian Translation": "хямд",
+    "id": 1130
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 533,
+    "Hanzi": "原谅",
+    "Pinyin": "yuánliàng",
+    "Mongolian Translation": "уучлах",
+    "id": 1131
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 534,
+    "Hanzi": "形象",
+    "Pinyin": "xíngxiàng",
+    "Mongolian Translation": "дүр төрх, имиж",
+    "id": 1132
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 535,
+    "Hanzi": "耳朵",
+    "Pinyin": "ěrduo",
+    "Mongolian Translation": "чих",
+    "id": 1133
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 536,
+    "Hanzi": "例如",
+    "Pinyin": "lìrú",
+    "Mongolian Translation": "жишээ нь",
+    "id": 1134
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 537,
+    "Hanzi": "浪费",
+    "Pinyin": "làngfèi",
+    "Mongolian Translation": "үрэх, дэмий зарцуулах",
+    "id": 1135
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 538,
+    "Hanzi": "继续",
+    "Pinyin": "jìxù",
+    "Mongolian Translation": "үргэлжлүүлэх",
+    "id": 1136
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 539,
+    "Hanzi": "规定",
+    "Pinyin": "guīdìng",
+    "Mongolian Translation": "дүрэм; тогтоох",
+    "id": 1137
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 540,
+    "Hanzi": "哭",
+    "Pinyin": "kū",
+    "Mongolian Translation": "уйлах",
+    "id": 1138
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 541,
+    "Hanzi": "酸",
+    "Pinyin": "suān",
+    "Mongolian Translation": "исгэлэн",
+    "id": 1139
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 542,
+    "Hanzi": "地点",
+    "Pinyin": "dìdiǎn",
+    "Mongolian Translation": "газар, байршил",
+    "id": 1140
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 543,
+    "Hanzi": "与",
+    "Pinyin": "yǔ",
+    "Mongolian Translation": "болон, хамт",
+    "id": 1141
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 544,
+    "Hanzi": "功夫",
+    "Pinyin": "gōngfu",
+    "Mongolian Translation": "кунфу; чармайлт",
+    "id": 1142
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 545,
+    "Hanzi": "顾客",
+    "Pinyin": "gùkè",
+    "Mongolian Translation": "үйлчлүүлэгч",
+    "id": 1143
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 546,
+    "Hanzi": "礼貌",
+    "Pinyin": "lǐmào",
+    "Mongolian Translation": "эелдэг байдал",
+    "id": 1144
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 547,
+    "Hanzi": "对话",
+    "Pinyin": "duìhuà",
+    "Mongolian Translation": "харилцан яриа",
+    "id": 1145
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 548,
+    "Hanzi": "过",
+    "Pinyin": "guò",
+    "Mongolian Translation": "өнгөрөх",
+    "id": 1146
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 549,
+    "Hanzi": "连",
+    "Pinyin": "lián",
+    "Mongolian Translation": "бүр; холбох",
+    "id": 1147
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 550,
+    "Hanzi": "以",
+    "Pinyin": "yǐ",
+    "Mongolian Translation": "-аар, -ийг ашиглан",
+    "id": 1148
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 551,
+    "Hanzi": "塑料袋",
+    "Pinyin": "sùliào dài",
+    "Mongolian Translation": "гялгар уут",
+    "id": 1149
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 552,
+    "Hanzi": "问好",
+    "Pinyin": "wènhǎo",
+    "Mongolian Translation": "мэнд хүргэх",
+    "id": 1150
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 553,
+    "Hanzi": "批评",
+    "Pinyin": "pīpíng",
+    "Mongolian Translation": "шүүмжлэх",
+    "id": 1151
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 554,
+    "Hanzi": "推迟",
+    "Pinyin": "tuīchí",
+    "Mongolian Translation": "хойшлуулах",
+    "id": 1152
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 555,
+    "Hanzi": "以及",
+    "Pinyin": "yǐjí",
+    "Mongolian Translation": "мөн, түүнчлэн",
+    "id": 1153
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 556,
+    "Hanzi": "用功",
+    "Pinyin": "yònggōng",
+    "Mongolian Translation": "хичээн сурах, чармайх",
+    "id": 1154
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 557,
+    "Hanzi": "词语",
+    "Pinyin": "cíyǔ",
+    "Mongolian Translation": "үг хэллэг",
+    "id": 1155
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 558,
+    "Hanzi": "袜子",
+    "Pinyin": "wàzi",
+    "Mongolian Translation": "оймс",
+    "id": 1156
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 559,
+    "Hanzi": "心情",
+    "Pinyin": "xīnqíng",
+    "Mongolian Translation": "сэтгэл санаа",
+    "id": 1157
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 560,
+    "Hanzi": "修",
+    "Pinyin": "xiū",
+    "Mongolian Translation": "засах, янзлах",
+    "id": 1158
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 561,
+    "Hanzi": "随着",
+    "Pinyin": "suízhe",
+    "Mongolian Translation": "даган, хамт",
+    "id": 1159
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 562,
+    "Hanzi": "广播",
+    "Pinyin": "guǎngbō",
+    "Mongolian Translation": "радио нэвтрүүлэг, зарлал",
+    "id": 1160
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 563,
+    "Hanzi": "口试",
+    "Pinyin": "kǒushì",
+    "Mongolian Translation": "аман шалгалт",
+    "id": 1161
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 564,
+    "Hanzi": "决定",
+    "Pinyin": "juédìng",
+    "Mongolian Translation": "шийдэх; шийдвэр",
+    "id": 1162
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 565,
+    "Hanzi": "共同",
+    "Pinyin": "gòngtóng",
+    "Mongolian Translation": "хамтдаа, нийтлэг",
+    "id": 1163
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 566,
+    "Hanzi": "热闹",
+    "Pinyin": "rènao",
+    "Mongolian Translation": "хөл хөдөлгөөнтэй, хөгжилтэй",
+    "id": 1164
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 567,
+    "Hanzi": "肚子",
+    "Pinyin": "dùzi",
+    "Mongolian Translation": "гэдэс",
+    "id": 1165
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 568,
+    "Hanzi": "受到",
+    "Pinyin": "shòudào",
+    "Mongolian Translation": "хүртэх, өртөх",
+    "id": 1166
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 569,
+    "Hanzi": "出现",
+    "Pinyin": "chūxiàn",
+    "Mongolian Translation": "гарч ирэх, бий болох",
+    "id": 1167
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 570,
+    "Hanzi": "故意",
+    "Pinyin": "gùyì",
+    "Mongolian Translation": "санаатайгаар",
+    "id": 1168
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 571,
+    "Hanzi": "教育",
+    "Pinyin": "jiàoyù",
+    "Mongolian Translation": "боловсрол; хүмүүжүүлэх",
+    "id": 1169
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 572,
+    "Hanzi": "适应",
+    "Pinyin": "shìyìng",
+    "Mongolian Translation": "дасах, зохицох",
+    "id": 1170
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 573,
+    "Hanzi": "奖学金",
+    "Pinyin": "jiǎngxuéjīn",
+    "Mongolian Translation": "тэтгэлэг",
+    "id": 1171
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 574,
+    "Hanzi": "受不了",
+    "Pinyin": "shòubuliǎo",
+    "Mongolian Translation": "тэсэхгүй байх",
+    "id": 1172
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 575,
+    "Hanzi": "渴",
+    "Pinyin": "kě",
+    "Mongolian Translation": "цангах",
+    "id": 1173
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 576,
+    "Hanzi": "流泪",
+    "Pinyin": "liúlèi",
+    "Mongolian Translation": "нулимс урсгах",
+    "id": 1174
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 577,
+    "Hanzi": "先进",
+    "Pinyin": "xiānjìn",
+    "Mongolian Translation": "дэвшилтэт",
+    "id": 1175
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 578,
+    "Hanzi": "粗",
+    "Pinyin": "cū",
+    "Mongolian Translation": "бүдүүн, ширүүн",
+    "id": 1176
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 579,
+    "Hanzi": "洗衣机",
+    "Pinyin": "xǐyījī",
+    "Mongolian Translation": "угаалгын машин",
+    "id": 1177
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 580,
+    "Hanzi": "十分",
+    "Pinyin": "shífēn",
+    "Mongolian Translation": "маш, тун",
+    "id": 1178
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 581,
+    "Hanzi": "邻居",
+    "Pinyin": "línjū",
+    "Mongolian Translation": "хөрш",
+    "id": 1179
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 582,
+    "Hanzi": "倒",
+    "Pinyin": "dào",
+    "Mongolian Translation": "уруугаа; асгах",
+    "id": 1180
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 583,
+    "Hanzi": "通知",
+    "Pinyin": "tōngzhī",
+    "Mongolian Translation": "мэдэгдэх; мэдэгдэл",
+    "id": 1181
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 584,
+    "Hanzi": "由",
+    "Pinyin": "yóu",
+    "Mongolian Translation": "-аас, -аар, шалтгаалах",
+    "id": 1182
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 585,
+    "Hanzi": "幽默",
+    "Pinyin": "yōumò",
+    "Mongolian Translation": "хошин, хөгжилтэй",
+    "id": 1183
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 586,
+    "Hanzi": "大使馆",
+    "Pinyin": "dàshǐguǎn",
+    "Mongolian Translation": "элчин сайдын яам",
+    "id": 1184
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 587,
+    "Hanzi": "浪漫",
+    "Pinyin": "làngmàn",
+    "Mongolian Translation": "романтик",
+    "id": 1185
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 588,
+    "Hanzi": "发生",
+    "Pinyin": "fāshēng",
+    "Mongolian Translation": "болох, тохиолдох",
+    "id": 1186
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 589,
+    "Hanzi": "材料",
+    "Pinyin": "cáiliào",
+    "Mongolian Translation": "материал",
+    "id": 1187
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 590,
+    "Hanzi": "既然",
+    "Pinyin": "jìrán",
+    "Mongolian Translation": "нэгэнт",
+    "id": 1188
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 591,
+    "Hanzi": "美丽",
+    "Pinyin": "měilì",
+    "Mongolian Translation": "үзэсгэлэнтэй",
+    "id": 1189
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 592,
+    "Hanzi": "蛋糕",
+    "Pinyin": "dàngāo",
+    "Mongolian Translation": "бялуу",
+    "id": 1190
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 593,
+    "Hanzi": "然而",
+    "Pinyin": "rán’ér",
+    "Mongolian Translation": "гэсэн хэдий ч",
+    "id": 1191
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 594,
+    "Hanzi": "一共",
+    "Pinyin": "yígòng",
+    "Mongolian Translation": "нийтдээ",
+    "id": 1192
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 595,
+    "Hanzi": "宽",
+    "Pinyin": "kuān",
+    "Mongolian Translation": "өргөн",
+    "id": 1193
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 596,
+    "Hanzi": "风景",
+    "Pinyin": "fēngjǐng",
+    "Mongolian Translation": "байгаль, үзэмж",
+    "id": 1194
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 597,
+    "Hanzi": "道歉",
+    "Pinyin": "dàoqiàn",
+    "Mongolian Translation": "уучлал гуйх",
+    "id": 1195
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 598,
+    "Hanzi": "收据",
+    "Pinyin": "shōujù",
+    "Mongolian Translation": "баримт",
+    "id": 1196
+  },
+  {
+    "section": "HSK 4",
+    "list_number": 599,
+    "Hanzi": "不管",
+    "Pinyin": "bùguǎn",
+    "Mongolian Translation": "хамаагүй, regardless",
+    "id": 1197
+  }
+]

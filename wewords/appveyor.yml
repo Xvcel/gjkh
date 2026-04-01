@@ -1,0 +1,34 @@
+version: 1.0.{build}
+
+image: Visual Studio 2022
+
+environment:
+  QT_VERSION: 6.7.2
+  QT_DIR: C:\Qt\6.7.2\msvc2022_64
+
+install:
+  - ps: |
+      $ProgressPreference = 'SilentlyContinue'
+      Write-Host "Installing Qt 6.7.2..."
+      pip install aqtinstall
+      aqt install-qt windows desktop 6.7.2 win64_msvc2022_64 -O C:\Qt
+      Write-Host "Qt installed"
+
+build_script:
+  - cmd: |
+      call "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvars64.bat"
+      set PATH=C:\Qt\6.7.2\msvc2022_64\bin;%PATH%
+      cmake -B build -S . -DCMAKE_PREFIX_PATH="C:\Qt\6.7.2\msvc2022_64" -DCMAKE_BUILD_TYPE=Release
+      cmake --build build --config Release --parallel 4
+
+after_build:
+  - ps: |
+      $deployDir = "deploy"
+      New-Item -ItemType Directory -Force -Path $deployDir
+      Copy-Item "build\Release\WeWords.exe" $deployDir
+      & "C:\Qt\6.7.2\msvc2022_64\bin\windeployqt.exe" --release --no-translations "$deployDir\WeWords.exe"
+      Compress-Archive -Path "$deployDir\*" -DestinationPath "WeWords-Windows.zip"
+
+artifacts:
+  - path: WeWords-Windows.zip
+    name: WeWords-Windows

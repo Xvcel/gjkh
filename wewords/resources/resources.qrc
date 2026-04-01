@@ -1,0 +1,22 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/data">
+    <!-- English -->
+    <file alias="words_en.json">../data/words_en.json</file>
+
+    <!-- Chinese — түвшин тус бүр -->
+    <file alias="words_hsk1.json">../data/words_hsk1.json</file>
+    <file alias="words_hsk2.json">../data/words_hsk2.json</file>
+    <file alias="words_hsk3.json">../data/words_hsk3.json</file>
+    <file alias="words_hsk4.json">../data/words_hsk4.json</file>
+    <file alias="words_hsk5.json">../data/words_hsk5.json</file>
+    <file alias="words_hsk6.json">../data/words_hsk6.json</file>
+
+    <!-- Chinese — нэгдсэн (хайлт/browse-д хэрэглэнэ) -->
+    <file alias="words_zh.json">../data/words_zh.json</file>
+  </qresource>
+
+  <qresource prefix="/icons">
+    <!-- <file alias="app.ico">../resources/wewords.ico</file> -->
+  </qresource>
+</RCC>
